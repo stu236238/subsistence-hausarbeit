@@ -1,0 +1,36 @@
+Country,Site,Time_Period,Absolute_Time,Unique,Culture,Reference,Species,Species_Sum,Percentage,Presence_Absence,Semi_Quantitative,...13
+G,Kratzeburg,BA,1800-600,1,Unknown,Harding 2000,cattle,cattle,76,x,xxx,xxx
+G,Kratzeburg,BA,1800-600,NA,Unknown,Harding 2000,sheep/goat,caprines,17,x,x,x
+G,Kratzeburg,BA,1800-600,NA,Unknown,Harding 2000,pig,pig,5,x,x,x
+G,Kratzeburg,BA,1800-600,NA,Unknown,Harding 2000,wild,wild,2,x,x,x
+G,Wüste Kunersdorf,BA,1800-600,1,Unknown,Harding 2000,cattle,cattle,53,x,xxxx,xx
+G,Wüste Kunersdorf,BA,1800-600,NA,Unknown,Harding 2000,sheep/goat,caprines,16,x,x,x
+G,Wüste Kunersdorf,BA,1800-600,NA,Unknown,Harding 2000,pig,pig,26,x,xx,x
+G,Wüste Kunersdorf,BA,1800-600,NA,Unknown,Harding 2000,horse,horse,3,x,x,x
+G,Wüste Kunersdorf,BA,1800-600,NA,Unknown,Harding 2000,wild,wild,2,x,x,x
+G,Zitz,BA,1800-600,1,Unknown,Harding 2000,cattle,cattle,48,x,xxxx,xx
+G,Zitz,BA,1800-600,NA,Unknown,Harding 2000,sheep/goat,caprines,17,x,xx,x
+G,Zitz,BA,1800-600,NA,Unknown,Harding 2000,pig,pig,22,x,xx,x
+G,Zitz,BA,1800-600,NA,Unknown,Harding 2000,horse,horse,8,x,x,x
+G,Zitz,BA,1800-600,NA,Unknown,Harding 2000,wild,wild,1,x,x,x
+NL,Zwaagdijk-oost,BA,2000-800,1,NA,van Amerongen 2014,Cervus elaphus,Cervus elaphus,NA,x,?,?
+NL,Zwaagdijk-oost,BA,2000-800,NA,NA,van Amerongen 2014,Sus scrofa,Sus scrofa,NA,0,0,0
+NL,Zwaagdijk-oost,BA,2000-800,NA,NA,van Amerongen 2014,Ursus arctos,Ursus arctos,NA,0,0,0
+NL,Zwaagdijk-oost,BA,2000-800,NA,NA,van Amerongen 2014,Anas platyrhynchos,Anas platyrhynchos,NA,0,0,0
+NL,Zwaagdijk-oost,BA,2000-800,NA,NA,van Amerongen 2014,Cygnus cygnus,Cygnus cygnus,NA,0,0,0
+NL,Zwaagdijk-oost,BA,2000-800,NA,NA,van Amerongen 2014,Capreolus capreolus,Capreolus capreolus,NA,0,0,0
+NL,Zwaagdijk-oost,BA,2000-800,NA,NA,van Amerongen 2014,Lepus europaeus,Lepus europaeus,NA,0,0,0
+NL,Hoogkarspel,BA,2000-800,1,NA,van Amerongen 2014,Cervus elaphus,Cervus elaphus,NA,0,0,0
+NL,Hoogkarspel,BA,2000-800,NA,NA,van Amerongen 2014,Sus scrofa,Sus scrofa,NA,0,0,0
+NL,Hoogkarspel,BA,2000-800,NA,NA,van Amerongen 2014,Ursus arctos,Ursus arctos,NA,x,?,?
+NL,Hoogkarspel,BA,2000-800,NA,NA,van Amerongen 2014,Anas platyrhynchos,Anas platyrhynchos,NA,0,0,0
+NL,Hoogkarspel,BA,2000-800,NA,NA,van Amerongen 2014,Cygnus cygnus,Cygnus cygnus,NA,0,0,0
+NL,Hoogkarspel,BA,2000-800,NA,NA,van Amerongen 2014,Capreolus capreolus,Capreolus capreolus,NA,x,?,?
+NL,Hoogkarspel,BA,2000-800,NA,NA,van Amerongen 2014,Lepus europaeus,Lepus europaeus,NA,0,0,0
+NL,Oostwoud,BA,2000-800,1,NA,van Amerongen 2014,Cervus elaphus,Cervus elaphus,NA,0,0,0
+NL,Oostwoud,BA,2000-800,NA,NA,van Amerongen 2014,Sus scrofa,Sus scrofa,NA,0,0,0
+NL,Oostwoud,BA,2000-800,NA,NA,van Amerongen 2014,Ursus arctos,Ursus arctos,NA,0,0,0
+NL,Oostwoud,BA,2000-800,NA,NA,van Amerongen 2014,Anas platyrhynchos,Anas platyrhynchos,NA,0,0,0
+NL,Oostwoud,BA,2000-800,NA,NA,van Amerongen 2014,Cygnus cygnus,Cygnus cygnus,NA,0,0,0
+NL,Oostwoud,BA,2000-800,NA,NA,van Amerongen 2014,Capreolus capreolus,Capreolus capreolus,NA,x,?,?
+NL,Oostwoud,BA,2000-800,NA,NA,van Amerongen 2014,Lepus europaeus,Lepus europaeus,NA,x,?,?

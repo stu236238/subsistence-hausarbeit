@@ -1,0 +1,366 @@
+Country,Site,Time_Period,Absolute_Time,Unique,Culture,Reference,Species,Species_Sum,Percentage,Abundance,Absolute,Stetigkeit_(%_der_Fundplätze),Presence_Absence,Semi_Quantitative_old,Semi_Quantitative,Notes,...18
+DK,"Djursland, Selkær 3-aisled",BA,1700-500,1,Unknown,"Robinson 2003, Table 7",Camelina sativa,Camelina sativa,NA,0,0,NA,x,?,?,NA,NA
+DK,"Djursland, Selkær 3-aisled",BA,1700-500,NA,Unknown,"Robinson 2003, Table 7",Hordeum vulgare,Hordeum vulgare,NA,0,0,NA,x,?,?,NA,NA
+DK,"Djursland, Selkær 3-aisled",BA,1700-500,NA,Unknown,"Robinson 2003, Table 7",Hordeum vulgare (hulled),Hordeum vulgare (hulled),NA,0,0,NA,0,0,0,NA,NA
+DK,"Djursland, Selkær 3-aisled",BA,1700-500,NA,Unknown,"Robinson 2003, Table 7",Triticum aestivum,Triticum aestivum,NA,0,0,NA,0,0,0,NA,NA
+DK,"Djursland, Selkær 3-aisled",BA,1700-500,NA,Unknown,"Robinson 2003, Table 7",Triticum monococcum,Triticum monococcum,NA,0,0,NA,0,0,0,NA,NA
+DK,Glesborg (ploughsoil),BA,1700-500,NA,Unknown,"Robinson 2003, Table 7",Hordeum vulgare (hulled),Hordeum vulgare (hulled),NA,0,0,NA,0,0,0,NA,NA
+DK,Glesborg (ploughsoil),BA,1700-500,NA,Unknown,"Robinson 2003, Table 7",Triticum aestivum,Triticum aestivum,NA,0,0,NA,0,0,0,NA,NA
+DK,Glesborg (ploughsoil),BA,1700-500,NA,Unknown,"Robinson 2003, Table 7",Triticum dicoccum,Triticum dicoccum,NA,0,0,NA,0,0,0,NA,NA
+DK,Glesborg (ploughsoil),BA,1700-500,NA,Unknown,"Robinson 2003, Table 7",Triticum monococcum,Triticum monococcum,NA,0,0,NA,0,0,0,NA,NA
+DK,Glesborg (ploughsoil),BA,1700-500,NA,Unknown,"Robinson 2003, Table 7",Triticum spelta,Triticum spelta,NA,0,0,NA,0,0,0,NA,NA
+DK,Hestehaven,BA,1700-500,NA,Unknown,Jensen et al 2020,Avena sp.,Avena sp.,NA,NA,NA,NA,x,?,?,NA,NA
+DK,Hestehaven,BA,1700-500,NA,Unknown,Jensen et al 2020,Hordeum vulgare (hulled),Hordeum vulgare (hulled),NA,NA,NA,NA,x,?,?,NA,NA
+DK,Hestehaven,BA,1700-500,NA,Unknown,Jensen et al 2020,Hordeum nudum,Hordeum nudum,NA,NA,NA,NA,x,?,?,NA,NA
+DK,Hestehaven,BA,1700-500,NA,Unknown,Jensen et al 2020,Triticum aestivum,Triticum aestivum,NA,NA,NA,NA,x,?,?,NA,NA
+DK,Hestehaven,BA,1700-500,NA,Unknown,Jensen et al 2020,Triticum turgidum,Triticum turgidum,NA,NA,NA,NA,0,0,0,NA,NA
+DK,Hestehaven,BA,1700-500,NA,Unknown,Jensen et al 2020,Triticum dicoccum,Triticum dicoccum,NA,NA,NA,NA,x,?,?,NA,NA
+DK,Hestehaven,BA,1700-500,NA,Unknown,Jensen et al 2020,Triticum monococcum,Triticum monococcum,NA,NA,NA,NA,x,?,?,NA,NA
+DK,Hestehaven,BA,1700-500,NA,Unknown,Jensen et al 2020,Triticum spelta,Triticum spelta,NA,NA,NA,NA,x,?,?,NA,NA
+DK,Hestehaven,BA,1700-500,NA,Unknown,Jensen et al 2020,Bromus sp.,Bromus sp.,NA,NA,NA,NA,x,?,?,NA,NA
+DK,Hestehaven,BA,1700-500,NA,Unknown,Jensen et al 2020,Chenopodium album,Chenopodium album,NA,NA,NA,NA,x,?,?,NA,NA
+DK,Hestehaven,BA,1700-500,NA,Unknown,Jensen et al 2020,Corylus avellana,Corylus avellana,NA,NA,NA,NA,x,?,?,NA,NA
+DK,Hestehaven,BA,1700-500,NA,Unknown,Jensen et al 2020,Malus sylvestris,Malus sylvestris,NA,NA,NA,NA,x,?,?,NA,NA
+DK,Hestehaven,BA,1700-500,NA,Unknown,Jensen et al 2020,Quercus sp.,Quercus sp.,NA,NA,NA,NA,x,?,?,NA,NA
+DK,Bjerre Enge 2&3,EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 3",Triticum aestivum/compactum,Triticum aestivum/compactum,NA,0,0,NA,0,0,0,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 2",Camelina sativa,Camelina sativa,NA,0,NA,NA,0,0,0,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 2",Panicum miliaceum,Panicum miliaceum,NA,0,NA,NA,0,0,0,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 2",Secale cereale,Secale cereale,NA,0,NA,NA,0,0,0,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Unknown,Effenberger 2018,Corylus avellana,Corylus avellana,NA,NA,NA,80,x,xxx?,xxxx?,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Unknown,Effenberger 2018,Quercus sp.,Quercus sp.,NA,NA,NA,40,x,xx?,xx?,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Unknown,Effenberger 2018,Arrhenatherum el. Ssp. Bulbosum,Arrhenatherum el. Ssp. Bulbosum,NA,NA,NA,20.2,x,x?,x?,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Unknown,Effenberger 2018,Rubus fruticosus,Rubus sp.,NA,NA,NA,10,x,x?,x?,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Grave,Effenberger 2018,Corylus avellana,Corylus avellana,NA,NA,NA,100,x,xxxx?,xxxx?,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Grave,Effenberger 2018,Arrhenatherum el. Ssp. Bulbosum,Arrhenatherum el. Ssp. Bulbosum,NA,NA,NA,100,x,xxxx?,xxxx?,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Grave,Effenberger 2018,Rubus idaeus,Rubus sp.,NA,NA,NA,100,x,xxxx?,xxxx?,NA,NA
+DK,"Djursland, Hem. Pl. A210 (3-aisled)",EBA,1700-1000,1,Unknown,"Robinson 2003, Table 7",Camelina sativa,Camelina sativa,NA,0,0,NA,0,0,0,NA,NA
+DK,"Djursland, Hem. Pl. A210 (3-aisled)",EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 7",Hordeum vulgare (hulled),Hordeum vulgare (hulled),NA,0,0,NA,0,0,0,NA,NA
+DK,"Djursland, Hem. Pl. A210 (3-aisled)",EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 7",Panicum miliaceum,Panicum miliaceum,NA,0,0,NA,0,0,0,NA,NA
+DK,"Djursland, Hem. Pl. A210 (3-aisled)",EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 7",Triticum aestivum,Triticum aestivum,NA,0,0,NA,0,0,0,NA,NA
+DK,"Djursland, Hem. Pl. A210 (3-aisled)",EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 7",Triticum monococcum,Triticum monococcum,NA,0,0,NA,0,0,0,NA,NA
+DK,Egehøj,EBA,1700-1000,1,Unknown,"Robinson 2003, Table 5",Camelina sativa,Camelina sativa,NA,0,0,NA,0,0,0,NA,NA
+DK,Egehøj,EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 5",Hordeum nudum,Hordeum nudum,NA,0,0,NA,0,0,0,NA,NA
+DK,Egehøj,EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 5",Hordeum vulgare (hulled),Hordeum vulgare (hulled),NA,0,0,NA,0,0,0,NA,NA
+DK,Egehøj,EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 5",Panicum miliaceum,Panicum miliaceum,NA,0,0,NA,0,0,0,NA,NA
+DK,Egehøj,EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 5",Triticum monococcum,Triticum monococcum,NA,0,0,NA,0,0,0,NA,NA
+DK,Egehøj,EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 5",Triticum spelta,Triticum spelta,NA,0,0,NA,0,0,0,NA,NA
+DK,Baltic Sea Coast/Islands,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Camelina sativa,Camelina sativa,NA,NA,NA,25.2,x,xx?,xx?,NA,NA
+DK,Bjerre Enge 4 (ploughsoil),LBA,1000-500,NA,Unknown,"Robinson 2003, Table 3",Triticum monococcum,Triticum monococcum,NA,0,0,NA,0,0,0,NA,NA
+DK,Bjerre Enge 4 (ploughsoil),LBA,1000-500,NA,Unknown,"Robinson 2003, Table 3",Linum usitatissimum,Linum usitatissimum,NA,0,0,NA,0,0,0,NA,NA
+DK,Bjerre Enge 4 (ploughsoil),LBA,1000-500,NA,Unknown,"Robinson 2003, Table 3","Hordeum vulgare (rachis, glumes)",Hordeum vulgare (hulled),NA,0,0,NA,0,0,0,NA,NA
+DK,Bjerre Enge 4 (ploughsoil),LBA,1000-500,NA,Unknown,"Robinson 2003, Table 3",Triticum aestivum/compactum,Triticum aestivum/compactum,NA,0,0,NA,0,0,0,NA,NA
+DK,Bodbjerg Ditch,LBA,1000-500,NA,Unknown,"Robinson 2003, Table 3",Triticum monococcum,Triticum monococcum,NA,0,0,NA,0,0,0,NA,NA
+DK,Bodbjerg Ditch,LBA,1000-500,NA,Unknown,"Robinson 2003, Table 3",Triticum aestivum/compactum,Triticum aestivum/compactum,NA,0,0,NA,0,0,0,NA,NA
+DK,Denmark,LBA,1000-500,NA,Unknown,"Robinson 2003, Table 2",Linum usitatissimum,Linum usitatissimum,NA,0,NA,NA,0,0,0,NA,NA
+DK,Denmark,LBA,1100-600,NA,Unknown,Effenberger 2018,Corylus avellana,Corylus avellana,NA,NA,NA,55.4,x,xx?,xxx?,NA,NA
+DK,Denmark,LBA,1100-600,NA,Unknown,Effenberger 2018,Arrhenatherum el. Ssp. Bulbosum,Arrhenatherum el. Ssp. Bulbosum,NA,NA,NA,55.4,x,xx?,xxx?,NA,NA
+DK,Denmark,LBA,1100-600,NA,Unknown,Effenberger 2018,Rubus idaeus,Rubus sp.,NA,NA,NA,22.1,x,x?,x?,NA,NA
+DK,Denmark,LBA,1100-600,NA,Unknown,Effenberger 2018,Rubus fruticosus,Rubus sp.,NA,NA,NA,11.1,x,x?,x?,NA,NA
+DK,Denmark,LBA,1100-600,NA,Unknown,Effenberger 2018,Crataegus sp.,Crataegus sp.,NA,NA,NA,11.1,x,x?,x?,NA,NA
+DK,Denmark North Sea Coast,LBA,1100-600,1,Unknown,"Effenberger 2018, Abb. 34",Linum usitatissimum,Linum usitatissimum,NA,NA,NA,30.9,x,x?,xx?,NA,NA
+DK,Denmark North Sea Coast,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Camelina sativa,Camelina sativa,NA,NA,NA,43.3,x,x?,xx?,NA,NA
+DK,"Djursland, Hem. Ch. A2 (3-aisled)",LBA,1700-1000,1,Unknown,"Robinson 2003, Table 7",Camelina sativa,Camelina sativa,NA,0,0,NA,0,0,0,NA,NA
+DK,"Djursland, Hem. Ch. A2 (3-aisled)",LBA,1700-1000,NA,Unknown,"Robinson 2003, Table 7",Panicum miliaceum,Panicum miliaceum,NA,0,0,NA,0,0,0,NA,NA
+DK,"Djursland, Hem. Ch. A500 outbuilding",LBA,1000-500,1,Unknown,"Robinson 2003, Table 7",Triticum monococcum,Triticum monococcum,NA,0,0,NA,0,0,0,NA,NA
+DK,"Djursland, Hem. Ch. A500 outbuilding",LBA,1000-500,NA,Unknown,"Robinson 2003, Table 7",Triticum spelta,Triticum spelta,NA,0,0,NA,0,0,0,NA,NA
+DK,"Djursland, Hem. Ch. A500 outbuilding",LBA,1000-500,NA,Unknown,"Robinson 2003, Table 7",Camelina sativa,Camelina sativa,NA,0,0,NA,0,0,0,NA,NA
+DK,"Djursland, Hem. Ch. A500 outbuilding",LBA,1000-500,NA,Unknown,"Robinson 2003, Table 7",Hordeum vulgare (hulled),Hordeum vulgare (hulled),NA,0,0,NA,0,0,0,NA,NA
+DK,"Djursland, Hem. Ch. A500 outbuilding",LBA,1000-500,NA,Unknown,"Robinson 2003, Table 7",Panicum miliaceum,Panicum miliaceum,NA,0,0,NA,0,0,0,NA,NA
+DK,"Djursland, Hem. Ch. A500 outbuilding",LBA,1000-500,NA,Unknown,"Robinson 2003, Table 7",Triticum aestivum,Triticum aestivum,NA,0,0,NA,0,0,0,NA,NA
+DK,"Djursland, Hem. Ch. A500 outbuilding",LBA,1000-500,NA,Unknown,"Robinson 2003, Table 7",Triticum dicoccum,Triticum dicoccum,NA,0,0,NA,0,0,0,NA,NA
+DK,Denmark,MBA,1500-1100,NA,Unknown,Effenberger 2018,Corylus avellana,Corylus avellana,NA,NA,NA,34.8,x,x,xx?,NA,NA
+DK,Denmark,MBA,1500-1100,NA,Unknown,Effenberger 2018,Quercus sp.,Quercus sp.,NA,NA,NA,8.4,x,x,x?,NA,NA
+DK,Denmark,MBA,1500-1100,NA,Unknown,Effenberger 2018,Arrhenatherum el. Ssp. Bulbosum,Arrhenatherum el. Ssp. Bulbosum,NA,NA,NA,50,x,xx,xxx?,NA,NA
+DK,Denmark,MBA,1500-1100,NA,Unknown,Effenberger 2018,Rubus idaeus,Rubus sp.,NA,NA,NA,8.2,x,x,x?,NA,NA
+DK,Denmark,MBA,1500-1100,NA,Unknown,Effenberger 2018,Rubus fruticosus,Rubus sp.,NA,NA,NA,8.2,x,x,x?,NA,NA
+DK,Denmark,MBA,1500-1100,NA,Unknown,Effenberger 2018,Malus sp.,Malus sp.,NA,NA,NA,8.2,x,x,x?,NA,NA
+DK,Denmark,MBA,1500-1100,NA,Unknown,Effenberger 2018,Fragaria sp.,Fragraria sp.,NA,NA,NA,16.6,x,x,x?,NA,NA
+DK,Denmark,MBA,1500-1100,NA,Unknown,Effenberger 2018,Crataegus sp.,Crataegus sp.,NA,NA,NA,8.2,x,x,x?,NA,NA
+DK,Denmark Geest,MBA,1500-1100,1,Unknown,"Effenberger 2018, Abb. 34",Linum usitatissimum,Linum usitatissimum,NA,NA,NA,20,x,x,x?,NA,NA
+DK,Denmark North Sea Coast,MBA,1500-1100,NA,Unknown,"Effenberger 2018, Abb. 34",Linum usitatissimum,Linum usitatissimum,NA,NA,NA,11.3,x,x,x?,NA,NA
+DK,Southern Scandinavia/North Sea Coast,MBA,1500-1100,1,Unknown,Stika/Heiss 2014,Vicia faba,Vicia faba,NA,NA,0,NA,0,0,0,NA,NA
+DK,Southern Scandinavia/North Sea Coast,MBA,1500-1100,NA,Unknown,Stika/Heiss 2014,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+G,Germany,EBA,1800-1500,1,Unknown,Effenberger 2018,Corylus avellana,Corylus avellana,NA,NA,NA,100,x,xxxx?,xxxx?,NA,NA
+G,Germany,EBA,1800-1500,NA,Unknown,Effenberger 2018,Quercus sp.,Quercus sp.,NA,NA,NA,40,x,xx?,xx?,NA,NA
+G,Germany,EBA,1800-1500,NA,Unknown,Effenberger 2018,Rubus idaeus,Rubus sp.,NA,NA,NA,80,x,xxx?,xxxx?,NA,NA
+G,Germany,EBA,1800-1500,NA,Unknown,Effenberger 2018,Rubus fruticosus,Rubus sp.,NA,NA,NA,40,x,xx?,xx?,NA,NA
+G,Mecklenburg-Vorpommern,EBA,1800-1500,NA,Unknown,"Effenberger 2018, Abb. 34",Pisum sativum,Pisum sativum,NA,NA,NA,100,x,xxxx?,xxxx?,NA,NA
+G,South Schleswig-Holstein,EBA,1800-1500,NA,Unknown,"Effenberger 2018, Abb. 34",Pisum sativum,Pisum sativum,NA,NA,NA,25,x,x?,xx?,NA,NA
+G,Southern Scandinavia/North Sea Coast,EBA,1100-600,1,Unknown,Stika/Heiss 2014,Vicia faba,Vicia faba,NA,NA,0,NA,0,0,0,NA,NA
+G,Southern Scandinavia/North Sea Coast,EBA,1100-600,NA,Unknown,Stika/Heiss 2014,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+G,Oldendrop/Ldkr. Leer,EIA,800-500,NA,Unknown,Kučan 2007,Hordeum vulgare nudum,Hordeum vulgare nudum,NA,NA,0,NA,0,0,0,NA,NA
+G,Oldendrop/Ldkr. Leer,EIA,800-500,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+G,Oldendrop/Ldkr. Leer,EIA,800-500,NA,Unknown,Kučan 2007,Avena fatua,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+G,Oldendrop/Ldkr. Leer,EIA,800-500,NA,Unknown,Kučan 2007,Avena sp.,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+G,Oldendrop/Ldkr. Leer,EIA,800-500,NA,Unknown,Kučan 2007,Triticum monococcum,Triticum monococcum,NA,NA,0,NA,0,0,0,NA,NA
+G,Oldendrop/Ldkr. Leer,EIA,800-500,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,NA
+G,Oldendrop/Ldkr. Leer,EIA,800-500,NA,Unknown,Kučan 2007,Triticum aestivum s.l.,Triticum aestivum s.l.,NA,NA,0,NA,0,0,0,NA,NA
+G,Oldendrop/Ldkr. Leer,EIA,800-500,NA,Unknown,Kučan 2007,Secale cereale,Secale cereale,NA,NA,0,NA,0,0,0,NA,NA
+G,Oldendrop/Ldkr. Leer,EIA,800-500,NA,Unknown,Kučan 2007,Panicum miliaceum,Panicum miliaceum,NA,NA,0,NA,0,0,0,NA,NA
+G,Oldendrop/Ldkr. Leer,EIA,800-500,NA,Unknown,Kučan 2007,Vicia faba var. Minor,Vicia faba var. Minor,NA,NA,0,NA,0,0,0,NA,NA
+G,Oldendrop/Ldkr. Leer,EIA,800-500,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+G,Brandenburg,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Pisum sativum,Pisum sativum,NA,NA,NA,44.7,x,xxx?,xx?,NA,NA
+G,Brandenburg,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Vicia faba,Vicia faba,NA,NA,NA,11.3,x,xx?,x?,NA,NA
+G,Brandenburg,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Lens culinaris,Lens culinaris,NA,NA,NA,22.4,x,xx?,x?,NA,NA
+G,Brandenburg,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Linum usitatissimum,Linum usitatissimum,NA,NA,NA,33.6,x,xxx?,xx?,NA,NA
+G,Brandenburg,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Camelina sativa,Camelina sativa,NA,NA,NA,11.3,x,xx?,x?,NA,NA
+G,Brandenburg,LBA,1100-600,NA,Grave,"Effenberger 2018, Abb. 34",Pisum sativum,Pisum sativum,NA,NA,NA,100,x,xxxx?,xxxx?,NA,NA
+G,Brandenburg,LBA,1100-600,NA,Grave,"Effenberger 2018, Abb. 34",Vicia faba,Vicia faba,NA,NA,NA,100,x,xxxx?,xxxx?,NA,NA
+G,Brandenburg,LBA,1100-600,NA,Grave,"Effenberger 2018, Abb. 34",Lens culinaris,Lens culinaris,NA,NA,NA,100,x,xxxx?,xxxx?,NA,NA
+G,Germany,LBA,1100-600,NA,Unknown,Effenberger 2018,Corylus avellana,Corylus avellana,NA,NA,NA,74.8,x,xxxx?,xxx?,NA,NA
+G,Germany,LBA,1100-600,NA,Unknown,Effenberger 2018,Quercus sp.,Quercus sp.,NA,NA,NA,30.9,x,xxx?,xx?,NA,NA
+G,Germany,LBA,1100-600,NA,Unknown,Effenberger 2018,Arrhenatherum el. Ssp. Bulbosum,Arrhenatherum el. Ssp. Bulbosum,NA,NA,NA,12.6,x,xx?,x?,NA,NA
+G,Germany,LBA,1100-600,NA,Unknown,Effenberger 2018,Rubus idaeus,Rubus sp.,NA,NA,NA,12.6,x,xx?,x?,NA,NA
+G,Germany,LBA,1100-600,NA,Unknown,Effenberger 2018,Rubus fruticosus,Rubus sp.,NA,NA,NA,6.3,x,x?,x?,NA,NA
+G,Germany,LBA,1100-600,NA,Unknown,Effenberger 2018,Prunus spinosa,Prunus spinosa,NA,NA,NA,31.1,x,xx?,xx?,NA,NA
+G,Germany,LBA,1100-600,NA,Unknown,Effenberger 2018,Malus sp.,Malus sp.,NA,NA,NA,31.1,x,xx?,xx?,NA,NA
+G,Germany,LBA,1100-600,NA,Unknown,Effenberger 2018,Fragaria sp.,Fragraria sp.,NA,NA,NA,12.6,x,xx?,x?,NA,NA
+G,Germany,LBA,1100-600,NA,Unknown,Effenberger 2018,Crataegus sp.,Crataegus sp.,NA,NA,NA,18.6,x,xx?,x?,NA,NA
+G,Mecklenburg-Vorpommern,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Pisum sativum,Pisum sativum,NA,NA,NA,50.1,x,xxx?,xxx?,NA,NA
+G,Mecklenburg-Vorpommern,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Vicia faba,Vicia faba,NA,NA,NA,50.1,x,xxx?,xxx?,NA,NA
+G,Mecklenburg-Vorpommern,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Lens culinaris,Lens culinaris,NA,NA,NA,25,x,xx?,xx?,NA,NA
+G,Mecklenburg-Vorpommern,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Linum usitatissimum,Linum usitatissimum,NA,NA,NA,50.1,x,xxx?,xxx?,NA,NA
+G,Mecklenburg-Vorpommern,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Camelina sativa,Camelina sativa,NA,NA,NA,50.1,x,xxx?,xxx?,NA,NA
+G,Mecklenburg-Vorpommern,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Papaver somniferum,Papaver somniferum,NA,NA,NA,25,x,xx?,xx?,NA,NA
+G,Niedersachsen North Sea Coast,LBA,1100-600,1,Unknown,"Effenberger 2018, Abb. 34",Vicia faba,Vicia faba,NA,NA,NA,20,x,xx?,x?,NA,NA
+G,Niedersachsen North Sea Coast,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Linum usitatissimum,Linum usitatissimum,NA,NA,NA,20,x,xx?,x?,NA,NA
+G,Niedersachsen North Sea Coast,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Camelina sativa,Camelina sativa,NA,NA,NA,20,x,xx?,x?,NA,NA
+G,North Schleswig-Holstein,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Pisum sativum,Pisum sativum,NA,NA,NA,50.1,x,xxx?,xxx?,NA,NA
+G,Rodenkirchen/Ldkr. Wesermarsch,LBA,1000-800,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,0
+G,Rodenkirchen/Ldkr. Wesermarsch,LBA,1000-800,NA,Unknown,Kučan 2007,Secale cereale,Secale cereale,NA,NA,0,NA,0,0,0,NA,0
+G,Rodenkirchen/Ldkr. Wesermarsch,LBA,1000-800,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+G,South Niedersachsen,LBA,1100-600,1,Unknown,"Effenberger 2018, Abb. 34",Pisum sativum,Pisum sativum,NA,NA,NA,25,x,x?,xx?,NA,NA
+G,South Niedersachsen,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Vicia faba,Vicia faba,NA,NA,NA,25,x,x?,xx?,NA,NA
+G,South Niedersachsen,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Lens culinaris,Lens culinaris,NA,NA,NA,25,x,x?,xx?,NA,NA
+G,South Niedersachsen,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Camelina sativa,Camelina sativa,NA,NA,NA,25,x,x?,xx?,NA,NA
+G,South Schleswig-Holstein,LBA,1100-600,NA,Unknown,"Effenberger 2018, Abb. 34",Pisum sativum,Pisum sativum,NA,NA,NA,25,x,x?,xx?,NA,NA
+G,Harkenbleck/Ldkr. Hannover,LBA,1000-900,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+G,Harkenbleck/Ldkr. Hannover,LBA,1000-900,NA,Unknown,Kučan 2007,Avena fatua,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+G,Harkenbleck/Ldkr. Hannover,LBA,1000-900,NA,Unknown,Kučan 2007,Avena sp.,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+G,Harkenbleck/Ldkr. Hannover,LBA,1000-900,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,NA
+G,Harkenbleck/Ldkr. Hannover,LBA,1000-900,NA,Unknown,Kučan 2007,Triticum aestivum s.l.,Triticum aestivum s.l.,NA,NA,0,NA,0,0,0,NA,NA
+G,Harkenbleck/Ldkr. Hannover,LBA,1000-900,NA,Unknown,Kučan 2007,Secale cereale,Secale cereale,NA,NA,0,NA,0,0,0,NA,NA
+G,Harkenbleck/Ldkr. Hannover,LBA,1000-900,NA,Unknown,Kučan 2007,Linum usitatissimum,Linum usitatissimum,NA,NA,0,NA,0,0,0,NA,NA
+G,Harkenbleck/Ldkr. Hannover,LBA,1000-900,NA,Unknown,Kučan 2007,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+G,Harkenbleck/Ldkr. Hannover,LBA,1000-900,NA,Unknown,Kučan 2007,Vicia faba var. Minor,Vicia faba var. Minor,NA,NA,0,NA,0,0,0,NA,NA
+G,Harkenbleck/Ldkr. Hannover,LBA,1000-900,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+G,Flögeln/Ldkr. Cuxhaven,LBA-EIA,800-500,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+G,Flögeln/Ldkr. Cuxhaven,LBA-EIA,800-500,NA,Unknown,Kučan 2007,Avena fatua,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+G,Flögeln/Ldkr. Cuxhaven,LBA-EIA,800-500,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,NA
+G,Flögeln/Ldkr. Cuxhaven,LBA-EIA,800-500,NA,Unknown,Kučan 2007,Secale cereale,Secale cereale,NA,NA,0,NA,0,0,0,NA,NA
+G,Flögeln/Ldkr. Cuxhaven,LBA-EIA,800-500,NA,Unknown,Kučan 2007,Panicum miliaceum,Panicum miliaceum,NA,NA,0,NA,0,0,0,NA,NA
+G,Flögeln/Ldkr. Cuxhaven,LBA-EIA,800-500,NA,Unknown,Kučan 2007,Linum usitatissimum,Linum usitatissimum,NA,NA,0,NA,0,0,0,NA,NA
+G,Flögeln/Ldkr. Cuxhaven,LBA-EIA,800-500,NA,Unknown,Kučan 2007,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+G,Flögeln/Ldkr. Cuxhaven,LBA-EIA,800-500,NA,Unknown,Kučan 2007,Vicia faba var. Minor,Vicia faba var. Minor,NA,NA,0,NA,0,0,0,NA,NA
+G,Flögeln/Ldkr. Cuxhaven,LBA-EIA,800-500,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+G,Brandenburg,MBA,1500-1100,NA,Unknown,"Effenberger 2018, Abb. 34",Lens culinaris,Lens culinaris,NA,NA,NA,100,x,xxxx?,xxxx?,NA,NA
+G,Germany,MBA,1500-1100,NA,Unknown,Effenberger 2018,Corylus avellana,Corylus avellana,NA,NA,NA,92.7,x,xxxx?,xxxx?,NA,NA
+G,Germany,MBA,1500-1100,NA,Unknown,Effenberger 2018,Quercus sp.,Quercus sp.,NA,NA,NA,23.1,x,x?,x?,NA,NA
+G,Germany,MBA,1500-1100,NA,Unknown,Effenberger 2018,Rubus idaeus,Rubus sp.,NA,NA,NA,69.4,x,xxx?,xxx?,NA,NA
+G,Germany,MBA,1500-1100,NA,Unknown,Effenberger 2018,Prunus spinosa,Prunus spinosa,NA,NA,NA,23.1,x,x?,x?,NA,NA
+G,Germany,MBA,1500-1100,NA,Unknown,Effenberger 2018,Malus sp.,Malus sp.,NA,NA,NA,23.1,x,x?,x?,NA,NA
+G,Germany,MBA,1500-1100,NA,Grave,Effenberger 2018,Corylus avellana,Corylus avellana,NA,NA,NA,100,x,xxxx?,xxxx?,NA,NA
+G,Germany,MBA,1500-1100,NA,Grave,Effenberger 2018,Quercus sp.,Quercus sp.,NA,NA,NA,20,x,x?,x?,NA,NA
+G,Germany,MBA,1500-1100,NA,Grave,Effenberger 2018,Arrhenatherum el. Ssp. Bulbosum,Arrhenatherum el. Ssp. Bulbosum,NA,NA,NA,20,x,x?,x?,NA,NA
+G,North Schleswig-Holstein,MBA,1500-1100,NA,Unknown,"Effenberger 2018, Abb. 34",Pisum sativum,Pisum sativum,NA,NA,NA,100,x,xxxx?,xxxx?,NA,NA
+G,North Schleswig-Holstein,MBA,1500-1100,NA,Unknown,"Effenberger 2018, Abb. 34",Vicia faba,Vicia faba,NA,NA,NA,50.1,x,xx?,xxx?,NA,NA
+G,North Schleswig-Holstein,MBA,1500-1100,NA,Unknown,"Effenberger 2018, Abb. 34",Linum usitatissimum,Linum usitatissimum,NA,NA,NA,50.1,x,xx?,xxx?,NA,NA
+G,South Schleswig-Holstein,MBA,1500-1100,NA,Unknown,"Effenberger 2018, Abb. 34",Pisum sativum,Pisum sativum,NA,NA,NA,100,x,xxxx?,xxxx?,NA,NA
+G,South Schleswig-Holstein,MBA,1500-1100,NA,Unknown,"Effenberger 2018, Abb. 34",Vicia faba,Vicia faba,NA,NA,NA,50.1,x,xx?,xxx?,NA,NA
+G,Brill/Ldkr. Wittmund,MBA B,1200-1000,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+G,Brill/Ldkr. Wittmund,MBA B,1200-1000,NA,Unknown,Kučan 2007,Avena fatua,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+G,Brill/Ldkr. Wittmund,MBA B,1200-1000,NA,Unknown,Kučan 2007,Avena sp.,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+G,Brill/Ldkr. Wittmund,MBA B,1200-1000,NA,Unknown,Kučan 2007,Triticum monococcum,Triticum monococcum,NA,NA,0,NA,0,0,0,NA,NA
+G,Brill/Ldkr. Wittmund,MBA B,1200-1000,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,NA
+G,Brill/Ldkr. Wittmund,MBA B,1200-1000,NA,Unknown,Kučan 2007,Triticum aestivum s.l.,Triticum aestivum s.l.,NA,NA,0,NA,0,0,0,NA,NA
+G,Brill/Ldkr. Wittmund,MBA B,1200-1000,NA,Unknown,Kučan 2007,Secale cereale,Secale cereale,NA,NA,0,NA,0,0,0,NA,NA
+G,Brill/Ldkr. Wittmund,MBA B,1200-1000,NA,Unknown,Kučan 2007,Panicum miliaceum,Panicum miliaceum,NA,NA,0,NA,0,0,0,NA,NA
+G,Brill/Ldkr. Wittmund,MBA B,1200-1000,NA,Unknown,Kučan 2007,Linum usitatissimum,Linum usitatissimum,NA,NA,0,NA,0,0,0,NA,NA
+G,Brill/Ldkr. Wittmund,MBA B,1200-1000,NA,Unknown,Kučan 2007,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+G,Brill/Ldkr. Wittmund,MBA B,1200-1000,NA,Unknown,Kučan 2007,Vicia faba var. Minor,Vicia faba var. Minor,NA,NA,0,NA,0,0,0,NA,NA
+G,Brill/Ldkr. Wittmund,MBA B,1200-1000,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+G,Rullstorf/ Ldkr. Lüneburg,MBA B,1300-1100,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+G,Rullstorf/ Ldkr. Lüneburg,MBA B,1300-1100,NA,Unknown,Kučan 2007,Avena fatua,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+G,Rullstorf/ Ldkr. Lüneburg,MBA B,1300-1100,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,NA
+G,Rullstorf/ Ldkr. Lüneburg,MBA B,1300-1100,NA,Unknown,Kučan 2007,Linum usitatissimum,Linum usitatissimum,NA,NA,0,NA,0,0,0,NA,NA
+G,Rullstorf/ Ldkr. Lüneburg,MBA B,1300-1100,NA,Unknown,Kučan 2007,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+G,Rullstorf/ Ldkr. Lüneburg,MBA B,1300-1100,NA,Unknown,Kučan 2007,Vicia faba var. Minor,Vicia faba var. Minor,NA,NA,0,NA,0,0,0,NA,NA
+G,Rullstorf/ Ldkr. Lüneburg,MBA B,1300-1100,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+G,Wiesens/Ldkr. Aurich,MBA-LBA-EIA,1200-400,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+G,Wiesens/Ldkr. Aurich,MBA-LBA-EIA,1200-400,NA,Unknown,Kučan 2007,Avena fatua,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+G,Wiesens/Ldkr. Aurich,MBA-LBA-EIA,1200-400,NA,Unknown,Kučan 2007,Avena sp.,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+G,Wiesens/Ldkr. Aurich,MBA-LBA-EIA,1200-400,NA,Unknown,Kučan 2007,Triticum dicoccum,Triticum dicoccum,NA,NA,0,NA,0,0,0,NA,NA
+G,Wiesens/Ldkr. Aurich,MBA-LBA-EIA,1200-400,NA,Unknown,Kučan 2007,Triticum monococcum,Triticum monococcum,NA,NA,0,NA,0,0,0,NA,NA
+G,Wiesens/Ldkr. Aurich,MBA-LBA-EIA,1200-400,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,NA
+G,Wiesens/Ldkr. Aurich,MBA-LBA-EIA,1200-400,NA,Unknown,Kučan 2007,Triticum aestivum s.l.,Triticum aestivum s.l.,NA,NA,0,NA,0,0,0,NA,NA
+G,Wiesens/Ldkr. Aurich,MBA-LBA-EIA,1200-400,NA,Unknown,Kučan 2007,Secale cereale,Secale cereale,NA,NA,0,NA,0,0,0,NA,NA
+G,Wiesens/Ldkr. Aurich,MBA-LBA-EIA,1200-400,NA,Unknown,Kučan 2007,Panicum miliaceum,Panicum miliaceum,NA,NA,0,NA,0,0,0,NA,NA
+G,Wiesens/Ldkr. Aurich,MBA-LBA-EIA,1200-400,NA,Unknown,Kučan 2007,Linum usitatissimum,Linum usitatissimum,NA,NA,0,NA,0,0,0,NA,NA
+G,Wiesens/Ldkr. Aurich,MBA-LBA-EIA,1200-400,NA,Unknown,Kučan 2007,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+G,Wiesens/Ldkr. Aurich,MBA-LBA-EIA,1200-400,NA,Unknown,Kučan 2007,Vicia faba var. Minor,Vicia faba var. Minor,NA,NA,0,NA,0,0,0,NA,NA
+G,Wiesens/Ldkr. Aurich,MBA-LBA-EIA,1200-400,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+NL,Netherlands,EBA,1800-1500,NA,Unknown,Effenberger 2018,Corylus avellana,Corylus avellana,NA,NA,NA,60,x,xx?,xxx?,NA,NA
+NL,Netherlands,EBA,1800-1500,NA,Unknown,Effenberger 2018,Quercus sp.,Quercus sp.,NA,NA,NA,40,x,x?,xx?,NA,NA
+NL,Netherlands,EBA,1800-1500,NA,Unknown,Effenberger 2018,Rubus fruticosus,Rubus sp.,NA,NA,NA,20,x,x?,x?,NA,NA
+NL,Netherlands,EBA,1800-1500,NA,Unknown,Effenberger 2018,Prunus spinosa,Prunus spinosa,NA,NA,NA,60,x,xx?,xxx?,NA,NA
+NL,Netherlands,EBA,1800-1500,NA,Unknown,Effenberger 2018,Arrhenatherum el. Ssp. Bulbosum,Arrhenatherum el. Ssp. Bulbosum,NA,NA,NA,20,x,x?,x?,NA,NA
+NL,"Ermelok/Prov. Gelderland, NL",EIA,800-500,NA,Unknown,Kučan 2007,Hordeum vulgare nudum,Hordeum vulgare nudum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Ermelok/Prov. Gelderland, NL",EIA,800-500,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Ermelok/Prov. Gelderland, NL",EIA,800-500,NA,Unknown,Kučan 2007,Avena fatua,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Ermelok/Prov. Gelderland, NL",EIA,800-500,NA,Unknown,Kučan 2007,Triticum monococcum,Triticum monococcum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Ermelok/Prov. Gelderland, NL",EIA,800-500,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Ermelok/Prov. Gelderland, NL",EIA,800-500,NA,Unknown,Kučan 2007,Triticum aestivum s.l.,Triticum aestivum s.l.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Ermelok/Prov. Gelderland, NL",EIA,800-500,NA,Unknown,Kučan 2007,Secale cereale,Secale cereale,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Ermelok/Prov. Gelderland, NL",EIA,800-500,NA,Unknown,Kučan 2007,Linum usitatissimum,Linum usitatissimum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Ermelok/Prov. Gelderland, NL",EIA,800-500,NA,Unknown,Kučan 2007,Vicia faba var. Minor,Vicia faba var. Minor,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Ermelok/Prov. Gelderland, NL",EIA,800-500,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Gees/Prov. Drenthe, NL",EIA,800-500,NA,Unknown,Kučan 2007,Hordeum vulgare nudum,Hordeum vulgare nudum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Gees/Prov. Drenthe, NL",EIA,800-500,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Gees/Prov. Drenthe, NL",EIA,800-500,NA,Unknown,Kučan 2007,Avena fatua,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Gees/Prov. Drenthe, NL",EIA,800-500,NA,Unknown,Kučan 2007,Avena sp.,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Gees/Prov. Drenthe, NL",EIA,800-500,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Gees/Prov. Drenthe, NL",EIA,800-500,NA,Unknown,Kučan 2007,Triticum aestivum s.l.,Triticum aestivum s.l.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Gees/Prov. Drenthe, NL",EIA,800-500,NA,Unknown,Kučan 2007,Secale cereale,Secale cereale,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Gees/Prov. Drenthe, NL",EIA,800-500,NA,Unknown,Kučan 2007,Panicum miliaceum,Panicum miliaceum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Gees/Prov. Drenthe, NL",EIA,800-500,NA,Unknown,Kučan 2007,Linum usitatissimum,Linum usitatissimum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Gees/Prov. Drenthe, NL",EIA,800-500,NA,Unknown,Kučan 2007,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Gees/Prov. Drenthe, NL",EIA,800-500,NA,Unknown,Kučan 2007,Vicia faba var. Minor,Vicia faba var. Minor,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Gees/Prov. Drenthe, NL",EIA,800-500,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 45/Prov. Drenthe, NL",LBA,1000-900,1,Unknown,Kučan 2007,Hordeum vulgare,Hordeum vulgare,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 45/Prov. Drenthe, NL",LBA,1000-900,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 45/Prov. Drenthe, NL",LBA,1000-900,NA,Unknown,Kučan 2007,Avena fatua,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 45/Prov. Drenthe, NL",LBA,1000-900,NA,Unknown,Kučan 2007,Avena sp.,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 45/Prov. Drenthe, NL",LBA,1000-900,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 45/Prov. Drenthe, NL",LBA,1000-900,NA,Unknown,Kučan 2007,Triticum aestivum s.l.,Triticum aestivum s.l.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 45/Prov. Drenthe, NL",LBA,1000-900,NA,Unknown,Kučan 2007,Secale cereale,Secale cereale,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 45/Prov. Drenthe, NL",LBA,1000-900,NA,Unknown,Kučan 2007,Panicum miliaceum,Panicum miliaceum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 45/Prov. Drenthe, NL",LBA,1000-900,NA,Unknown,Kučan 2007,Linum usitatissimum,Linum usitatissimum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 45/Prov. Drenthe, NL",LBA,1000-900,NA,Unknown,Kučan 2007,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 45/Prov. Drenthe, NL",LBA,1000-900,NA,Unknown,Kučan 2007,Vicia faba var. Minor,Vicia faba var. Minor,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 45/Prov. Drenthe, NL",LBA,1000-900,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+NL,Netherlands,LBA,1100-600,NA,Unknown,Effenberger 2018,Corylus avellana,Corylus avellana,NA,NA,NA,49.9,x,xx?,xx?,NA,NA
+NL,Netherlands,LBA,1100-600,NA,Unknown,Effenberger 2018,Quercus sp.,Quercus sp.,NA,NA,NA,100,x,xxxx?,xxxx?,NA,NA
+NL,"Angelsloo 84, Emmen/Prov. Drenthe, NL",LBA – IA,900-600,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Angelsloo 84, Emmen/Prov. Drenthe, NL",LBA – IA,900-600,NA,Unknown,Kučan 2007,Avena fatua,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Angelsloo 84, Emmen/Prov. Drenthe, NL",LBA – IA,900-600,NA,Unknown,Kučan 2007,Avena sp.,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Angelsloo 84, Emmen/Prov. Drenthe, NL",LBA – IA,900-600,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Angelsloo 84, Emmen/Prov. Drenthe, NL",LBA – IA,900-600,NA,Unknown,Kučan 2007,Triticum aestivum s.l.,Triticum aestivum s.l.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Angelsloo 84, Emmen/Prov. Drenthe, NL",LBA – IA,900-600,NA,Unknown,Kučan 2007,Secale cereale,Secale cereale,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Angelsloo 84, Emmen/Prov. Drenthe, NL",LBA – IA,900-600,NA,Unknown,Kučan 2007,Panicum miliaceum,Panicum miliaceum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Angelsloo 84, Emmen/Prov. Drenthe, NL",LBA – IA,900-600,NA,Unknown,Kučan 2007,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Angelsloo 84, Emmen/Prov. Drenthe, NL",LBA – IA,900-600,NA,Unknown,Kučan 2007,Vicia faba var. Minor,Vicia faba var. Minor,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Angelsloo 84, Emmen/Prov. Drenthe, NL",LBA – IA,900-600,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Geldrop, NL",MBA,1800-1100,NA,Unknown,"de Hingh 2000, Table 7.1",Corylus avellana,Corylus avellana,NA,NA,0,NA,0,0,0,NA,NA
+NL,Netherlands,MBA,1500-1105,NA,Unknown,Effenberger 2018,Corylus avellana,Corylus avellana,NA,NA,NA,60,x,xx?,xxx?,NA,NA
+NL,Netherlands,MBA,1500-1106,NA,Unknown,Effenberger 2018,Quercus sp.,Quercus sp.,NA,NA,NA,40,x,x?,xx?,NA,NA
+NL,Netherlands,MBA,1500-1107,NA,Unknown,Effenberger 2018,Prunus spinosa,Prunus spinosa,NA,NA,NA,60,x,xx?,xxx?,NA,NA
+NL,"Elp 69, Prov. Drenthe, NL",MBA A,1800-1500,1,Unknown,Kučan 2007,Hordeum vulgare,Hordeum vulgare,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 69, Prov. Drenthe, NL",MBA A,1800-1500,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 69, Prov. Drenthe, NL",MBA A,1800-1500,NA,Unknown,Kučan 2007,Avena fatua,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 69, Prov. Drenthe, NL",MBA A,1800-1500,NA,Unknown,Kučan 2007,Avena sp.,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 69, Prov. Drenthe, NL",MBA A,1800-1500,NA,Unknown,Kučan 2007,Triticum dicoccum,Triticum dicoccum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 69, Prov. Drenthe, NL",MBA A,1800-1500,NA,Unknown,Kučan 2007,Triticum monococcum,Triticum monococcum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 69, Prov. Drenthe, NL",MBA A,1800-1500,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 69, Prov. Drenthe, NL",MBA A,1800-1500,NA,Unknown,Kučan 2007,Triticum aestivum s.l.,Triticum aestivum s.l.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 69, Prov. Drenthe, NL",MBA A,1800-1500,NA,Unknown,Kučan 2007,Secale cereale,Secale cereale,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 69, Prov. Drenthe, NL",MBA A,1800-1500,NA,Unknown,Kučan 2007,Panicum miliaceum,Panicum miliaceum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 69, Prov. Drenthe, NL",MBA A,1800-1500,NA,Unknown,Kučan 2007,Linum usitatissimum,Linum usitatissimum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 69, Prov. Drenthe, NL",MBA A,1800-1500,NA,Unknown,Kučan 2007,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 69, Prov. Drenthe, NL",MBA A,1800-1500,NA,Unknown,Kučan 2007,Vicia faba var. Minor,Vicia faba var. Minor,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 69, Prov. Drenthe, NL",MBA A,1800-1500,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Emmerhout 215, Emmen / Prov. Drenthe, NL",MBA A,1700-1600,1,Unknown,Kučan 2007,Hordeum vulgare,Hordeum vulgare,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Emmerhout 215, Emmen / Prov. Drenthe, NL",MBA A,1700-1600,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Emmerhout 215, Emmen / Prov. Drenthe, NL",MBA A,1700-1600,NA,Unknown,Kučan 2007,Avena fatua,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Emmerhout 215, Emmen / Prov. Drenthe, NL",MBA A,1700-1600,NA,Unknown,Kučan 2007,Avena sp.,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Emmerhout 215, Emmen / Prov. Drenthe, NL",MBA A,1700-1600,NA,Unknown,Kučan 2007,Triticum monococcum,Triticum monococcum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Emmerhout 215, Emmen / Prov. Drenthe, NL",MBA A,1700-1600,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Emmerhout 215, Emmen / Prov. Drenthe, NL",MBA A,1700-1600,NA,Unknown,Kučan 2007,Triticum aestivum s.l.,Triticum aestivum s.l.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Emmerhout 215, Emmen / Prov. Drenthe, NL",MBA A,1700-1600,NA,Unknown,Kučan 2007,Secale cereale,Secale cereale,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Emmerhout 215, Emmen / Prov. Drenthe, NL",MBA A,1700-1600,NA,Unknown,Kučan 2007,Panicum miliaceum,Panicum miliaceum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Emmerhout 215, Emmen / Prov. Drenthe, NL",MBA A,1700-1600,NA,Unknown,Kučan 2007,Linum usitatissimum,Linum usitatissimum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Emmerhout 215, Emmen / Prov. Drenthe, NL",MBA A,1700-1600,NA,Unknown,Kučan 2007,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Emmerhout 215, Emmen / Prov. Drenthe, NL",MBA A,1700-1600,NA,Unknown,Kučan 2007,Vicia faba var. Minor,Vicia faba var. Minor,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Emmerhout 215, Emmen / Prov. Drenthe, NL",MBA A,1700-1600,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Zijderveld/Prov. Zuid-Holland, NL",MBA A,1800-1600,NA,Unknown,Kučan 2007,Hordeum vulgare var. Nudum,Hordeum vulgare nudum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Zijderveld/Prov. Zuid-Holland, NL",MBA A,1800-1600,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Zijderveld/Prov. Zuid-Holland, NL",MBA A,1800-1600,NA,Unknown,Kučan 2007,Avena fatua,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Zijderveld/Prov. Zuid-Holland, NL",MBA A,1800-1600,NA,Unknown,Kučan 2007,Avena sp.,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Zijderveld/Prov. Zuid-Holland, NL",MBA A,1800-1600,NA,Unknown,Kučan 2007,Triticum dicoccum,Triticum dicoccum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Zijderveld/Prov. Zuid-Holland, NL",MBA A,1800-1600,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Zijderveld/Prov. Zuid-Holland, NL",MBA A,1800-1600,NA,Unknown,Kučan 2007,Triticum aestivum s.l.,Triticum aestivum s.l.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Zijderveld/Prov. Zuid-Holland, NL",MBA A,1800-1600,NA,Unknown,Kučan 2007,Secale cereale,Secale cereale,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Zijderveld/Prov. Zuid-Holland, NL",MBA A,1800-1600,NA,Unknown,Kučan 2007,Panicum miliaceum,Panicum miliaceum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Zijderveld/Prov. Zuid-Holland, NL",MBA A,1800-1600,NA,Unknown,Kučan 2007,Linum usitatissimum,Linum usitatissimum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Zijderveld/Prov. Zuid-Holland, NL",MBA A,1800-1600,NA,Unknown,Kučan 2007,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Zijderveld/Prov. Zuid-Holland, NL",MBA A,1800-1600,NA,Unknown,Kučan 2007,Vicia faba var. Minor,Vicia faba var. Minor,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Zijderveld/Prov. Zuid-Holland, NL",MBA A,1800-1600,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Bovenskarspel/Prov. Noord-Holland, NL",MBA B,1200-800,NA,Unknown,Kučan 2007,Hordeum vulgare nudum,Hordeum vulgare nudum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Bovenskarspel/Prov. Noord-Holland, NL",MBA B,1200-800,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Bovenskarspel/Prov. Noord-Holland, NL",MBA B,1200-800,NA,Unknown,Kučan 2007,Avena fatua,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Bovenskarspel/Prov. Noord-Holland, NL",MBA B,1200-800,NA,Unknown,Kučan 2007,Avena sp.,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Bovenskarspel/Prov. Noord-Holland, NL",MBA B,1200-800,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Bovenskarspel/Prov. Noord-Holland, NL",MBA B,1200-800,NA,Unknown,Kučan 2007,Triticum aestivum s.l.,Triticum aestivum s.l.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Bovenskarspel/Prov. Noord-Holland, NL",MBA B,1200-800,NA,Unknown,Kučan 2007,Secale cereale,Secale cereale,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Bovenskarspel/Prov. Noord-Holland, NL",MBA B,1200-800,NA,Unknown,Kučan 2007,Panicum miliaceum,Panicum miliaceum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Bovenskarspel/Prov. Noord-Holland, NL",MBA B,1200-800,NA,Unknown,Kučan 2007,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Bovenskarspel/Prov. Noord-Holland, NL",MBA B,1200-800,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 98/Prov. Drenthe, NL",MBA B,1500-1300,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 98/Prov. Drenthe, NL",MBA B,1500-1300,NA,Unknown,Kučan 2007,Avena sp.,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 98/Prov. Drenthe, NL",MBA B,1500-1300,NA,Unknown,Kučan 2007,Triticum monococcum,Triticum monococcum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 98/Prov. Drenthe, NL",MBA B,1500-1300,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 98/Prov. Drenthe, NL",MBA B,1500-1300,NA,Unknown,Kučan 2007,Triticum aestivum s.l.,Triticum aestivum s.l.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 98/Prov. Drenthe, NL",MBA B,1500-1300,NA,Unknown,Kučan 2007,Secale cereale,Secale cereale,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 98/Prov. Drenthe, NL",MBA B,1500-1300,NA,Unknown,Kučan 2007,Linum usitatissimum,Linum usitatissimum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 98/Prov. Drenthe, NL",MBA B,1500-1300,NA,Unknown,Kučan 2007,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 98/Prov. Drenthe, NL",MBA B,1500-1300,NA,Unknown,Kučan 2007,Vicia faba var. Minor,Vicia faba var. Minor,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Elp 98/Prov. Drenthe, NL",MBA B,1500-1300,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Twisk/Prov. Noord-Holland, NL",MBA B,1300-1200,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Twisk/Prov. Noord-Holland, NL",MBA B,1300-1200,NA,Unknown,Kučan 2007,Avena fatua,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Twisk/Prov. Noord-Holland, NL",MBA B,1300-1200,NA,Unknown,Kučan 2007,Avena sp.,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Twisk/Prov. Noord-Holland, NL",MBA B,1300-1200,NA,Unknown,Kučan 2007,Triticum monococcum,Triticum monococcum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Twisk/Prov. Noord-Holland, NL",MBA B,1300-1200,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Twisk/Prov. Noord-Holland, NL",MBA B,1300-1200,NA,Unknown,Kučan 2007,Triticum aestivum s.l.,Triticum aestivum s.l.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Twisk/Prov. Noord-Holland, NL",MBA B,1300-1200,NA,Unknown,Kučan 2007,Secale cereale,Secale cereale,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Twisk/Prov. Noord-Holland, NL",MBA B,1300-1200,NA,Unknown,Kučan 2007,Panicum miliaceum,Panicum miliaceum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Twisk/Prov. Noord-Holland, NL",MBA B,1300-1200,NA,Unknown,Kučan 2007,Linum usitatissimum,Linum usitatissimum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Twisk/Prov. Noord-Holland, NL",MBA B,1300-1200,NA,Unknown,Kučan 2007,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Twisk/Prov. Noord-Holland, NL",MBA B,1300-1200,NA,Unknown,Kučan 2007,Vicia faba var. Minor,Vicia faba var. Minor,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Twisk/Prov. Noord-Holland, NL",MBA B,1300-1200,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Den Burg/ Texel, NL",MBA B – EIA,1400-500,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Den Burg/ Texel, NL",MBA B – EIA,1400-500,NA,Unknown,Kučan 2007,Avena fatua,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Den Burg/ Texel, NL",MBA B – EIA,1400-500,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Den Burg/ Texel, NL",MBA B – EIA,1400-500,NA,Unknown,Kučan 2007,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Den Burg/ Texel, NL",MBA B – EIA,1400-500,NA,Unknown,Kučan 2007,Vicia faba var. Minor,Vicia faba var. Minor,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Den Burg/ Texel, NL",MBA B – EIA,1400-500,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Westwoud/Prov. Noord-Holland, NL",MBA B – LBA,1400-801,NA,Unknown,Kučan 2007,Hordeum vulgare var. Nudum,Hordeum vulgare nudum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Westwoud/Prov. Noord-Holland, NL",MBA B – LBA,1400-802,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Westwoud/Prov. Noord-Holland, NL",MBA B – LBA,1400-806,NA,Unknown,Kučan 2007,Triticum monococcum,Triticum monococcum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Westwoud/Prov. Noord-Holland, NL",MBA B – LBA,1400-807,NA,Unknown,Kučan 2007,Triticum spelta,Triticum spelta,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Westwoud/Prov. Noord-Holland, NL",MBA B – LBA,1400-808,NA,Unknown,Kučan 2007,Triticum aestivum s.l.,Triticum aestivum s.l.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Westwoud/Prov. Noord-Holland, NL",MBA B – LBA,1400-809,NA,Unknown,Kučan 2007,Secale cereale,Secale cereale,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Westwoud/Prov. Noord-Holland, NL",MBA B – LBA,1400-810,NA,Unknown,Kučan 2007,Panicum miliaceum,Panicum miliaceum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Westwoud/Prov. Noord-Holland, NL",MBA B – LBA,1400-812,NA,Unknown,Kučan 2007,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Westwoud/Prov. Noord-Holland, NL",MBA B – LBA,1400-813,NA,Unknown,Kučan 2007,Vicia faba var. Minor,Vicia faba var. Minor,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Westwoud/Prov. Noord-Holland, NL",MBA B – LBA,1400-814,NA,Unknown,Kučan 2007,Pisum sativum,Pisum sativum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Hooidonksche Akkers/Prov. Noord-Brabant, NL",MBA B – LBA – IA,1500-300,NA,Unknown,Kučan 2007,Hordeum vulgare nudum,Hordeum vulgare nudum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Hooidonksche Akkers/Prov. Noord-Brabant, NL",MBA B – LBA – IA,1500-300,NA,Unknown,Kučan 2007,Avena sativa,Avena sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Hooidonksche Akkers/Prov. Noord-Brabant, NL",MBA B – LBA – IA,1500-300,NA,Unknown,Kučan 2007,Avena fatua,Avena sp.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Hooidonksche Akkers/Prov. Noord-Brabant, NL",MBA B – LBA – IA,1500-300,NA,Unknown,Kučan 2007,Triticum monococcum,Triticum monococcum,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Hooidonksche Akkers/Prov. Noord-Brabant, NL",MBA B – LBA – IA,1500-300,NA,Unknown,Kučan 2007,Triticum aestivum s.l.,Triticum aestivum s.l.,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Hooidonksche Akkers/Prov. Noord-Brabant, NL",MBA B – LBA – IA,1500-300,NA,Unknown,Kučan 2007,Secale cereale,Secale cereale,NA,NA,0,NA,0,0,0,NA,NA
+NL,"Hooidonksche Akkers/Prov. Noord-Brabant, NL",MBA B – LBA – IA,1500-300,NA,Unknown,Kučan 2007,Vicia faba var. Minor,Vicia faba var. Minor,NA,NA,0,NA,0,0,0,NA,NA
+PL,Poland,BA,2300-800,NA,Unknown,Harding 2000,Triticum spelta,Triticum spelta,0,NA,NA,NA,0,0,0,NA,NA
+PL,Poland,BA,2300-800,NA,Unknown,Harding 2000,Hordeum nudum,Hordeum vulgare nudum,0,NA,NA,NA,0,0,0,NA,NA
+PL,Poland,BA,2300-800,NA,Unknown,Harding 2000,Pisum sativum,Pisum sativum,0,NA,NA,NA,0,0,0,NA,NA
+PL,Poland,BA,2300-800,NA,Unknown,Harding 2000,Linum usitatissimum,Linum usitatissimum,0,NA,NA,NA,0,0,0,NA,NA
+PL,Poland,BA,2300-800,NA,Unknown,Harding 2000,Camelina sativa,Camelina sativa,0,NA,NA,NA,0,0,0,NA,NA
+PL,Poland,BA,2300-800,NA,Unknown,Harding 2000,Papaver somniferum,Papaver somniferum,0,NA,NA,NA,0,0,0,NA,NA
+PL,Poland,BA,2300-800,NA,Lusatian,Wasylikowa 1991,Triticum spelta,Triticum spelta,0,NA,NA,NA,0,0,0,NA,NA
+PL,Poland,BA,2300-800,NA,Others,Wasylikowa 1991,Triticum spelta,Triticum spelta,0,NA,NA,NA,0,0,0,NA,NA
+PL,Poland,BA,2300-800,NA,Others,Wasylikowa 1991,Hordeum vulgare convar.,Hordeum vulgare convar.,0,NA,NA,NA,0,0,0,NA,NA
+PL,Poland,BA,2300-800,NA,Others,Wasylikowa 1991,Secale cereale,Secale cereale,0,NA,NA,NA,0,0,0,NA,NA
+PL,Poland,BA,2300-800,NA,Others,Wasylikowa 1991,Avena sativa,Avena sativa,0,NA,NA,NA,0,0,0,NA,NA
+PL,Poland,BA,2300-800,NA,Others,Wasylikowa 1991,Vicia faba var. Minor,Vicia faba var. Minor,0,NA,NA,NA,0,0,0,NA,NA
+PL,Poland,BA,2300-800,NA,Unknown,Wasylikowa 1991,Triticum spelta,Triticum spelta,0,NA,NA,NA,0,0,0,NA,NA
+PL,Poland,BA,2300-800,NA,Unknown,Wasylikowa 1991,Corylus avellana,Corylus avellana,NA,NA,NA,NA,x,x,?,NA,NA
+PL,Poland,Ha,800--,NA,Unknown,Harding 2000,Hordeum nudum,Hordeum vulgare nudum,0,NA,NA,NA,0,0,0,NA,NA

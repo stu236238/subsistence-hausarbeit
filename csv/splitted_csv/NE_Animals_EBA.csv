@@ -1,0 +1,24 @@
+Country,Site,Time_Period,Absolute_Time,Unique,Culture,Reference,Species,Species_Sum,Percentage,Presence_Absence,Semi_Quantitative,...13
+NL,Zwaagdijk,EBA,2000-1800,1,Unknown,Harding 2000,cattle,cattle,83,x,xxxx,xxxx
+NL,Zwaagdijk,EBA,2000-1800,NA,Unknown,Harding 2000,sheep/goat,caprines,11,x,x,x
+NL,Zwaagdijk,EBA,2000-1800,NA,Unknown,Harding 2000,pig,pig,4,x,x,x
+NL,Zwaagdijk,EBA,2000-1800,NA,Unknown,Harding 2000,wild,wild,2,x,x,x
+NL,Zwaagdijk,EBA,2000-1800,NA,Unknown,van Amerongen 2014,Cervus elaphus,Cervus elaphus,NA,0,0,0
+NL,Zwaagdijk,EBA,2000-1800,NA,Unknown,van Amerongen 2014,Sus scrofa,Sus scrofa,NA,x,?,?
+NL,Zwaagdijk,EBA,2000-1800,NA,Unknown,van Amerongen 2014,Ursus arctos,Ursus arctos,NA,0,0,0
+NL,Zwaagdijk,EBA,2000-1800,NA,Unknown,van Amerongen 2014,Anas platyrhynchos,Anas platyrhynchos,NA,0,0,0
+NL,Zwaagdijk,EBA,2000-1800,NA,Unknown,van Amerongen 2014,Cygnus cygnus,Cygnus cygnus,NA,0,0,0
+NL,Zwaagdijk,EBA,2000-1800,NA,Unknown,van Amerongen 2014,Capreolus capreolus,Capreolus capreolus,NA,x,?,?
+NL,Zwaagdijk,EBA,2000-1800,NA,Unknown,van Amerongen 2014,Lepus europaeus,Lepus europaeus,NA,0,0,0
+NL,Zwaagdijk,EBA,2000-1800,NA,Unknown,Scheibner 2015,livestock,livestock,97.3,x,xxxx,xxxx
+NL,Zwaagdijk,EBA,2000-1800,NA,Unknown,Scheibner 2015,wild meat animals,wild,0,0,0,0
+NL,Zwaagdijk,EBA,2000-1800,NA,Unknown,Scheibner 2015,pisces,pisces,0.6,x,x,x
+NL,Zwaagdijk,EBA,2000-1800,NA,Unknown,Scheibner 2015,aves,aves,0.6,x,x,x
+NL,Zwaagdijk,EBA,2000-1800,NA,Unknown,Scheibner 2015,marine,marine,1.3,x,x,x
+NL,Zwaagdijk,EBA,2000-1800,NA,Unknown,Scheibner 2015,wild fur animals,wild fur animals,0.3,x,x,x
+NL,Leidschendam/Voorschoten,LN,2000++,1,Unknown,Scheibner 2015,livestock,livestock,69,x,xxxx,xxxx
+NL,Leidschendam/Voorschoten,LN,2000++,NA,Unknown,Scheibner 2015,wild meat animals,wild,11,x,x,x
+NL,Leidschendam/Voorschoten,LN,2000++,NA,Unknown,Scheibner 2015,pisces,pisces,19,x,x,x
+NL,Leidschendam/Voorschoten,LN,2000++,NA,Unknown,Scheibner 2015,aves,aves,1,x,x,x
+NL,Leidschendam/Voorschoten,LN,2000++,NA,Unknown,Scheibner 2015,marine,marine,0.1,x,x,x
+NL,Leidschendam/Voorschoten,LN,2000++,NA,Unknown,Scheibner 2015,wild fur animals,wild fur animals,0.1,x,x,x

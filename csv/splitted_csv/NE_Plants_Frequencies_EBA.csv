@@ -1,0 +1,36 @@
+Country,Site,Time_Period,Absolute_Time,Unique,Culture,Reference,Species,Species_Sum,Percentage,Abundance,Absolute,Stetigkeit_(%_der_Fundplätze),Presence_Absence,Semi_Quantitative_old,Semi_Quantitative,Notes,...18
+DK,Bjerre Enge 2&3,EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 3",Triticum aestivum/compactum,Triticum aestivum/compactum,NA,0,0,NA,0,0,0,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 2",Camelina sativa,Camelina sativa,NA,0,NA,NA,0,0,0,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 2",Panicum miliaceum,Panicum miliaceum,NA,0,NA,NA,0,0,0,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 2",Secale cereale,Secale cereale,NA,0,NA,NA,0,0,0,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Unknown,Effenberger 2018,Corylus avellana,Corylus avellana,NA,NA,NA,80,x,xxx?,xxxx?,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Unknown,Effenberger 2018,Quercus sp.,Quercus sp.,NA,NA,NA,40,x,xx?,xx?,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Unknown,Effenberger 2018,Arrhenatherum el. Ssp. Bulbosum,Arrhenatherum el. Ssp. Bulbosum,NA,NA,NA,20.2,x,x?,x?,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Unknown,Effenberger 2018,Rubus fruticosus,Rubus sp.,NA,NA,NA,10,x,x?,x?,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Grave,Effenberger 2018,Corylus avellana,Corylus avellana,NA,NA,NA,100,x,xxxx?,xxxx?,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Grave,Effenberger 2018,Arrhenatherum el. Ssp. Bulbosum,Arrhenatherum el. Ssp. Bulbosum,NA,NA,NA,100,x,xxxx?,xxxx?,NA,NA
+DK,Denmark,EBA,1700-1000,NA,Grave,Effenberger 2018,Rubus idaeus,Rubus sp.,NA,NA,NA,100,x,xxxx?,xxxx?,NA,NA
+DK,"Djursland, Hem. Pl. A210 (3-aisled)",EBA,1700-1000,1,Unknown,"Robinson 2003, Table 7",Camelina sativa,Camelina sativa,NA,0,0,NA,0,0,0,NA,NA
+DK,"Djursland, Hem. Pl. A210 (3-aisled)",EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 7",Hordeum vulgare (hulled),Hordeum vulgare (hulled),NA,0,0,NA,0,0,0,NA,NA
+DK,"Djursland, Hem. Pl. A210 (3-aisled)",EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 7",Panicum miliaceum,Panicum miliaceum,NA,0,0,NA,0,0,0,NA,NA
+DK,"Djursland, Hem. Pl. A210 (3-aisled)",EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 7",Triticum aestivum,Triticum aestivum,NA,0,0,NA,0,0,0,NA,NA
+DK,"Djursland, Hem. Pl. A210 (3-aisled)",EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 7",Triticum monococcum,Triticum monococcum,NA,0,0,NA,0,0,0,NA,NA
+DK,Egehøj,EBA,1700-1000,1,Unknown,"Robinson 2003, Table 5",Camelina sativa,Camelina sativa,NA,0,0,NA,0,0,0,NA,NA
+DK,Egehøj,EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 5",Hordeum nudum,Hordeum nudum,NA,0,0,NA,0,0,0,NA,NA
+DK,Egehøj,EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 5",Hordeum vulgare (hulled),Hordeum vulgare (hulled),NA,0,0,NA,0,0,0,NA,NA
+DK,Egehøj,EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 5",Panicum miliaceum,Panicum miliaceum,NA,0,0,NA,0,0,0,NA,NA
+DK,Egehøj,EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 5",Triticum monococcum,Triticum monococcum,NA,0,0,NA,0,0,0,NA,NA
+DK,Egehøj,EBA,1700-1000,NA,Unknown,"Robinson 2003, Table 5",Triticum spelta,Triticum spelta,NA,0,0,NA,0,0,0,NA,NA
+G,Germany,EBA,1800-1500,1,Unknown,Effenberger 2018,Corylus avellana,Corylus avellana,NA,NA,NA,100,x,xxxx?,xxxx?,NA,NA
+G,Germany,EBA,1800-1500,NA,Unknown,Effenberger 2018,Quercus sp.,Quercus sp.,NA,NA,NA,40,x,xx?,xx?,NA,NA
+G,Germany,EBA,1800-1500,NA,Unknown,Effenberger 2018,Rubus idaeus,Rubus sp.,NA,NA,NA,80,x,xxx?,xxxx?,NA,NA
+G,Germany,EBA,1800-1500,NA,Unknown,Effenberger 2018,Rubus fruticosus,Rubus sp.,NA,NA,NA,40,x,xx?,xx?,NA,NA
+G,Mecklenburg-Vorpommern,EBA,1800-1500,NA,Unknown,"Effenberger 2018, Abb. 34",Pisum sativum,Pisum sativum,NA,NA,NA,100,x,xxxx?,xxxx?,NA,NA
+G,South Schleswig-Holstein,EBA,1800-1500,NA,Unknown,"Effenberger 2018, Abb. 34",Pisum sativum,Pisum sativum,NA,NA,NA,25,x,x?,xx?,NA,NA
+G,Southern Scandinavia/North Sea Coast,EBA,1100-600,1,Unknown,Stika/Heiss 2014,Vicia faba,Vicia faba,NA,NA,0,NA,0,0,0,NA,NA
+G,Southern Scandinavia/North Sea Coast,EBA,1100-600,NA,Unknown,Stika/Heiss 2014,Camelina sativa,Camelina sativa,NA,NA,0,NA,0,0,0,NA,NA
+NL,Netherlands,EBA,1800-1500,NA,Unknown,Effenberger 2018,Corylus avellana,Corylus avellana,NA,NA,NA,60,x,xx?,xxx?,NA,NA
+NL,Netherlands,EBA,1800-1500,NA,Unknown,Effenberger 2018,Quercus sp.,Quercus sp.,NA,NA,NA,40,x,x?,xx?,NA,NA
+NL,Netherlands,EBA,1800-1500,NA,Unknown,Effenberger 2018,Rubus fruticosus,Rubus sp.,NA,NA,NA,20,x,x?,x?,NA,NA
+NL,Netherlands,EBA,1800-1500,NA,Unknown,Effenberger 2018,Prunus spinosa,Prunus spinosa,NA,NA,NA,60,x,xx?,xxx?,NA,NA
+NL,Netherlands,EBA,1800-1500,NA,Unknown,Effenberger 2018,Arrhenatherum el. Ssp. Bulbosum,Arrhenatherum el. Ssp. Bulbosum,NA,NA,NA,20,x,x?,x?,NA,NA

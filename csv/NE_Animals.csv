@@ -1,0 +1,356 @@
+Country,Site,Time_Period,Absolute_Time,Unique,Culture,Reference,Species,Species_Sum,Percentage,Presence_Absence,Semi_Quantitative,
+G,Kratzeburg,BA,1800-600,1,Unknown,Harding 2000,cattle,cattle,76,x,xxx,xxx
+G,Kratzeburg,BA,1800-600,,Unknown,Harding 2000,sheep/goat,caprines,17,x,x,x
+G,Kratzeburg,BA,1800-600,,Unknown,Harding 2000,pig,pig,5.0,x,x,x
+G,Kratzeburg,BA,1800-600,,Unknown,Harding 2000,wild,wild,2.0,x,x,x
+G,Wüste Kunersdorf,BA,1800-600,1,Unknown,Harding 2000,cattle,cattle,53,x,xxxx,xx
+G,Wüste Kunersdorf,BA,1800-600,,Unknown,Harding 2000,sheep/goat,caprines,16.0,x,x,x
+G,Wüste Kunersdorf,BA,1800-600,,Unknown,Harding 2000,pig,pig,26,x,xx,x
+G,Wüste Kunersdorf,BA,1800-600,,Unknown,Harding 2000,horse,horse,3.0,x,x,x
+G,Wüste Kunersdorf,BA,1800-600,,Unknown,Harding 2000,wild,wild,2.0,x,x,x
+G,Zitz,BA,1800-600,1,Unknown,Harding 2000,cattle,cattle,48,x,xxxx,xx
+G,Zitz,BA,1800-600,,Unknown,Harding 2000,sheep/goat,caprines,17,x,xx,x
+G,Zitz,BA,1800-600,,Unknown,Harding 2000,pig,pig,22,x,xx,x
+G,Zitz,BA,1800-600,,Unknown,Harding 2000,horse,horse,8.0,x,x,x
+G,Zitz,BA,1800-600,,Unknown,Harding 2000,wild,wild,1.0,x,x,x
+NL,Zwaagdijk-oost,BA,2000-800,1,,van Amerongen 2014,Cervus elaphus,Cervus elaphus,,x,?,?
+NL,Zwaagdijk-oost,BA,2000-800,,,van Amerongen 2014,Sus scrofa,Sus scrofa,,0,0,0
+NL,Zwaagdijk-oost,BA,2000-800,,,van Amerongen 2014,Ursus arctos,Ursus arctos,,0,0,0
+NL,Zwaagdijk-oost,BA,2000-800,,,van Amerongen 2014,Anas platyrhynchos,Anas platyrhynchos,,0,0,0
+NL,Zwaagdijk-oost,BA,2000-800,,,van Amerongen 2014,Cygnus cygnus,Cygnus cygnus,,0,0,0
+NL,Zwaagdijk-oost,BA,2000-800,,,van Amerongen 2014,Capreolus capreolus,Capreolus capreolus,,0,0,0
+NL,Zwaagdijk-oost,BA,2000-800,,,van Amerongen 2014,Lepus europaeus,Lepus europaeus,,0,0,0
+NL,Hoogkarspel,BA,2000-800,1,,van Amerongen 2014,Cervus elaphus,Cervus elaphus,,0,0,0
+NL,Hoogkarspel,BA,2000-800,,,van Amerongen 2014,Sus scrofa,Sus scrofa,,0,0,0
+NL,Hoogkarspel,BA,2000-800,,,van Amerongen 2014,Ursus arctos,Ursus arctos,,x,?,?
+NL,Hoogkarspel,BA,2000-800,,,van Amerongen 2014,Anas platyrhynchos,Anas platyrhynchos,,0,0,0
+NL,Hoogkarspel,BA,2000-800,,,van Amerongen 2014,Cygnus cygnus,Cygnus cygnus,,0,0,0
+NL,Hoogkarspel,BA,2000-800,,,van Amerongen 2014,Capreolus capreolus,Capreolus capreolus,,x,?,?
+NL,Hoogkarspel,BA,2000-800,,,van Amerongen 2014,Lepus europaeus,Lepus europaeus,,0,0,0
+NL,Oostwoud,BA,2000-800,1,,van Amerongen 2014,Cervus elaphus,Cervus elaphus,,0,0,0
+NL,Oostwoud,BA,2000-800,,,van Amerongen 2014,Sus scrofa,Sus scrofa,,0,0,0
+NL,Oostwoud,BA,2000-800,,,van Amerongen 2014,Ursus arctos,Ursus arctos,,0,0,0
+NL,Oostwoud,BA,2000-800,,,van Amerongen 2014,Anas platyrhynchos,Anas platyrhynchos,,0,0,0
+NL,Oostwoud,BA,2000-800,,,van Amerongen 2014,Cygnus cygnus,Cygnus cygnus,,0,0,0
+NL,Oostwoud,BA,2000-800,,,van Amerongen 2014,Capreolus capreolus,Capreolus capreolus,,x,?,?
+NL,Oostwoud,BA,2000-800,,,van Amerongen 2014,Lepus europaeus,Lepus europaeus,,x,?,?
+NL,Zwaagdijk,EBA,2000-1800,1,Unknown,Harding 2000,cattle,cattle,83,x,xxxx,xxxx
+NL,Zwaagdijk,EBA,2000-1800,,Unknown,Harding 2000,sheep/goat,caprines,11.0,x,x,x
+NL,Zwaagdijk,EBA,2000-1800,,Unknown,Harding 2000,pig,pig,4.0,x,x,x
+NL,Zwaagdijk,EBA,2000-1800,,Unknown,Harding 2000,wild,wild,2.0,x,x,x
+NL,Zwaagdijk,EBA,2000-1800,,,van Amerongen 2014,Cervus elaphus,Cervus elaphus,,0,0,0
+NL,Zwaagdijk,EBA,2000-1800,,,van Amerongen 2014,Sus scrofa,Sus scrofa,,x,?,?
+NL,Zwaagdijk,EBA,2000-1800,,,van Amerongen 2014,Ursus arctos,Ursus arctos,,0,0,0
+NL,Zwaagdijk,EBA,2000-1800,,,van Amerongen 2014,Anas platyrhynchos,Anas platyrhynchos,,0,0,0
+NL,Zwaagdijk,EBA,2000-1800,,,van Amerongen 2014,Cygnus cygnus,Cygnus cygnus,,0,0,0
+NL,Zwaagdijk,EBA,2000-1800,,,van Amerongen 2014,Capreolus capreolus,Capreolus capreolus,,x,?,?
+NL,Zwaagdijk,EBA,2000-1800,,,van Amerongen 2014,Lepus europaeus,Lepus europaeus,,0,0,0
+NL,Zwaagdijk,EBA,2000-1800,,,Scheibner 2015,livestock,livestock,97.3,x,xxxx,xxxx
+NL,Zwaagdijk,EBA,2000-1800,,,Scheibner 2015,wild meat animals,wild,0,0,0,0
+NL,Zwaagdijk,EBA,2000-1800,,,Scheibner 2015,pisces,pisces,0.6,x,x,x
+NL,Zwaagdijk,EBA,2000-1800,,,Scheibner 2015,aves,aves,0.6,x,x,x
+NL,Zwaagdijk,EBA,2000-1800,,,Scheibner 2015,marine,marine,1.3,x,x,x
+NL,Zwaagdijk,EBA,2000-1800,,,Scheibner 2015,wild fur animals,wild fur animals,0.3,x,x,x
+NL,Leidschendam/Voorschoten,LN,2000++,1,,Scheibner 2015,livestock,livestock,69,x,xxxx,xxxx
+NL,Leidschendam/Voorschoten,LN,2000++,,,Scheibner 2015,wild meat animals,wild,11,x,x,x
+NL,Leidschendam/Voorschoten,LN,2000++,,,Scheibner 2015,pisces,pisces,19,x,x,x
+NL,Leidschendam/Voorschoten,LN,2000++,,,Scheibner 2015,aves,aves,1,x,x,x
+NL,Leidschendam/Voorschoten,LN,2000++,,,Scheibner 2015,marine,marine,0.1,x,x,x
+NL,Leidschendam/Voorschoten,LN,2000++,,,Scheibner 2015,wild fur animals,wild fur animals,0.1,x,x,x
+NL,Andijk/Vogelenzang,MBA,1800-1100,1,,Scheibner 2015,livestock,livestock,98.6,x,xxxx,xxxx
+NL,Andijk/Vogelenzang,MBA,1800-1100,,,Scheibner 2015,wild meat animals,wild,1.0,x,x,x
+NL,Andijk/Vogelenzang,MBA,1800-1100,,,Scheibner 2015,pisces,pisces,0.1,x,x,x
+NL,Andijk/Vogelenzang,MBA,1800-1100,,,Scheibner 2015,marine,marine,0.3,x,x,x
+NL,Andijk,MBA,1800-1100,,,van Amerongen 2014,Cervus elaphus,Cervus elaphus,,x,?,?
+NL,Andijk,MBA,1800-1100,,,van Amerongen 2014,Sus scrofa,Sus scrofa,,x,?,?
+NL,Andijk,MBA,1800-1100,,,van Amerongen 2014,Ursus arctos,Ursus arctos,,0,0,0
+NL,Andijk,MBA,1800-1100,,,van Amerongen 2014,Anas platyrhynchos,Anas platyrhynchos,,0,0,0
+NL,Andijk,MBA,1800-1100,,,van Amerongen 2014,Cygnus cygnus,Cygnus cygnus,,0,0,0
+NL,Andijk,MBA,1800-1100,,,van Amerongen 2014,Capreolus capreolus,Capreolus capreolus,,x,?,?
+NL,Andijk,MBA,1800-1100,,,van Amerongen 2014,Lepus europaeus,Lepus europaeus,,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,1,,van Amerongen 2015,eel (Anguilla anguilla),eel (Anguilla anguilla),,x,?,?
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,carps (Cyprinidae indet.),carps (Cyprinidae indet.),,x,?,?
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,pike (Esox lucius),pike (Esox lucius),,x,?,?
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,bream (Abramis brama),bream (Abramis brama),,x,?,?
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,perch (Perca fluviatilis),perch (Perca fluviatilis),,x,?,?
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,silver bream (Blicca bjoerkna),silver bream (Blicca bjoerkna),,x,?,?
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,3-spined stickleback (Gasterosteus aculeatus),3-spined stickleback (Gasterosteus aculeatus),,x,?,?
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,mullets (Mugilidae indet.),mullets (Mugilidae indet.),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,Flatfishes (Pleuronectidae indet.),Flatfishes (Pleuronectidae indet.),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,roach (Rutilus rutiulus),roach (Rutilus rutiulus),,x,?,?
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,bleak (Alburnus alburnus),bleak (Alburnus alburnus),,x,?,?
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,sea bass (Dicentrarchus labrax),sea bass (Dicentrarchus labrax),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,cods (Gadidae),cods (Gadidae),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,Thin-lipped mullet (Liza ramada),Thin-lipped mullet (Liza ramada),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,flounder (Platichthys flesus),flounder (Platichthys flesus),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,10-spined stickleback (Pungitius pungitius),10-spined stickleback (Pungitius pungitius),,x,?,?
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,thornback ray (Raja clavata),thornback ray (Raja clavata),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,rays (Rajidae),rays (Rajidae),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,salmons (Salmonidae indet.),salmons (Salmonidae indet.),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,common rudd (Scardinius erythropthalmus),common rudd (Scardinius erythropthalmus),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,catfish (Siluris glanis),catfish (Siluris glanis),,x,?,?
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,sturgeon (Acipenser sturio),sturgeon (Acipenser sturio),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,allis shad (Alosa alosa),allis shad (Alosa alosa),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,twaite shad (Alosa fallax),twaite shad (Alosa fallax),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,sharks/ray (Chondrichthyes),sharks/ray (Chondrichthyes),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,herring (Clupea harengus),herring (Clupea harengus),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,herring/sprat (Clupea harengus/Sprattus sprattus),herring/sprat (Clupea harengus/Sprattus sprattus),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,whitefishes (Coregonus spec.),whitefishes (Coregonus spec.),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,stingray (Dasyatis pastinaca),stingray (Dasyatis pastinaca),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,grey gurnard (Eutrigla gurnardus),grey gurnard (Eutrigla gurnardus),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,Atlantic cod (Gadus morhua),Atlantic cod (Gadus morhua),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,ruffe (Gymnocephalus cernuus),ruffe (Gymnocephalus cernuus),,x,?,?
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,ide (Leuciscus idus),ide (Leuciscus idus),,x,?,?
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,Thin-lipped/golden grey mullet (Liza ramada/aurata),Thin-lipped/golden grey mullet (Liza ramada/aurata),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,smelt (Osmerus eperlanus),smelt (Osmerus eperlanus),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,sea basses (Percichthyidae),sea basses (Percichthyidae),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,plaice (Pleuronectus platessa),plaice (Pleuronectus platessa),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,sole (Solea solea),sole (Solea solea),,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2015,tench (Tinca tinca),tench (Tinca tinca),,x,?,?
+NL,Bovenkarspel,MBA-LBA,1800-800,,,Scheibner 2015,livestock,livestock,99.9,x,xxxx,xxxx
+NL,Bovenkarspel,MBA-LBA,1800-800,,,Scheibner 2015,other,other,0.1,x,x,x
+NL,Bovenkarspel,MBA-LBA,1800-800,,Unknown,Harding 2000,cattle,cattle,77,x,xxx,xxx
+NL,Bovenkarspel,MBA-LBA,1800-800,,Unknown,Harding 2000,sheep/goat,caprines,16.0,x,x,x
+NL,Bovenkarspel,MBA-LBA,1800-800,,Unknown,Harding 2000,pig,pig,7.0,x,x,x
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2014,Cervus elaphus,Cervus elaphus,,x,?,?
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2014,Sus scrofa,Sus scrofa,,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2014,Ursus arctos,Ursus arctos,,0,0,0
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2014,Anas platyrhynchos,Anas platyrhynchos,,x,?,?
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2014,Cygnus cygnus,Cygnus cygnus,,x,?,?
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2014,Capreolus capreolus,Capreolus capreolus,,x,?,?
+NL,Bovenkarspel,MBA-LBA,1800-800,,,van Amerongen 2014,Lepus europaeus,Lepus europaeus,,x,?,?
+NL,Enkhuizen,MBA-LBA,1800-800,1,,van Amerongen 2015,eel (Anguilla anguilla),eel (Anguilla anguilla),,x,?,?
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,carps (Cyprinidae indet.),carps (Cyprinidae indet.),,x,?,?
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,pike (Esox lucius),pike (Esox lucius),,x,?,?
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,bream (Abramis brama),bream (Abramis brama),,x,?,?
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,perch (Perca fluviatilis),perch (Perca fluviatilis),,x,?,?
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,silver bream (Blicca bjoerkna),silver bream (Blicca bjoerkna),,x,?,?
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,3-spined stickleback (Gasterosteus aculeatus),3-spined stickleback (Gasterosteus aculeatus),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,mullets (Mugilidae indet.),mullets (Mugilidae indet.),,x,?,?
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,Flatfishes (Pleuronectidae indet.),Flatfishes (Pleuronectidae indet.),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,roach (Rutilus rutiulus),roach (Rutilus rutiulus),,x,?,?
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,bleak (Alburnus alburnus),bleak (Alburnus alburnus),,x,?,?
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,sea bass (Dicentrarchus labrax),sea bass (Dicentrarchus labrax),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,cods (Gadidae),cods (Gadidae),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,Thin-lipped mullet (Liza ramada),Thin-lipped mullet (Liza ramada),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,flounder (Platichthys flesus),flounder (Platichthys flesus),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,10-spined stickleback (Pungitius pungitius),10-spined stickleback (Pungitius pungitius),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,thornback ray (Raja clavata),thornback ray (Raja clavata),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,rays (Rajidae),rays (Rajidae),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,salmons (Salmonidae indet.),salmons (Salmonidae indet.),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,common rudd (Scardinius erythropthalmus),common rudd (Scardinius erythropthalmus),,x,?,?
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,catfish (Siluris glanis),catfish (Siluris glanis),,x,?,?
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,sturgeon (Acipenser sturio),sturgeon (Acipenser sturio),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,allis shad (Alosa alosa),allis shad (Alosa alosa),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,twaite shad (Alosa fallax),twaite shad (Alosa fallax),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,sharks/ray (Chondrichthyes),sharks/ray (Chondrichthyes),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,herring (Clupea harengus),herring (Clupea harengus),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,herring/sprat (Clupea harengus/Sprattus sprattus),herring/sprat (Clupea harengus/Sprattus sprattus),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,whitefishes (Coregonus spec.),whitefishes (Coregonus spec.),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,stingray (Dasyatis pastinaca),stingray (Dasyatis pastinaca),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,grey gurnard (Eutrigla gurnardus),grey gurnard (Eutrigla gurnardus),,x,?,?
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,Atlantic cod (Gadus morhua),Atlantic cod (Gadus morhua),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,ruffe (Gymnocephalus cernuus),ruffe (Gymnocephalus cernuus),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,ide (Leuciscus idus),ide (Leuciscus idus),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,Thin-lipped/golden grey mullet (Liza ramada/aurata),Thin-lipped/golden grey mullet (Liza ramada/aurata),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,smelt (Osmerus eperlanus),smelt (Osmerus eperlanus),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,sea basses (Percichthyidae),sea basses (Percichthyidae),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,plaice (Pleuronectus platessa),plaice (Pleuronectus platessa),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,sole (Solea solea),sole (Solea solea),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2015,tench (Tinca tinca),tench (Tinca tinca),,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2014,Cervus elaphus,Cervus elaphus,,x,?,?
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2014,Sus scrofa,Sus scrofa,,x,?,?
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2014,Ursus arctos,Ursus arctos,,x,?,?
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2014,Anas platyrhynchos,Anas platyrhynchos,,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2014,Cygnus cygnus,Cygnus cygnus,,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2014,Capreolus capreolus,Capreolus capreolus,,0,0,0
+NL,Enkhuizen,MBA-LBA,1800-800,,,van Amerongen 2014,Lepus europaeus,Lepus europaeus,,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,1,,van Amerongen 2015,eel (Anguilla anguilla),eel (Anguilla anguilla),,x,?,?
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,carps (Cyprinidae indet.),carps (Cyprinidae indet.),,x,?,?
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,pike (Esox lucius),pike (Esox lucius),,x,?,?
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,bream (Abramis brama),bream (Abramis brama),,x,?,?
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,perch (Perca fluviatilis),perch (Perca fluviatilis),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,silver bream (Blicca bjoerkna),silver bream (Blicca bjoerkna),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,3-spined stickleback (Gasterosteus aculeatus),3-spined stickleback (Gasterosteus aculeatus),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,mullets (Mugilidae indet.),mullets (Mugilidae indet.),,x,?,?
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,Flatfishes (Pleuronectidae indet.),Flatfishes (Pleuronectidae indet.),,x,?,?
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,roach (Rutilus rutiulus),roach (Rutilus rutiulus),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,bleak (Alburnus alburnus),bleak (Alburnus alburnus),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,sea bass (Dicentrarchus labrax),sea bass (Dicentrarchus labrax),,x,?,?
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,cods (Gadidae),cods (Gadidae),,x,?,?
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,Thin-lipped mullet (Liza ramada),Thin-lipped mullet (Liza ramada),,x,?,?
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,flounder (Platichthys flesus),flounder (Platichthys flesus),,x,?,?
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,10-spined stickleback (Pungitius pungitius),10-spined stickleback (Pungitius pungitius),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,thornback ray (Raja clavata),thornback ray (Raja clavata),,x,?,?
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,rays (Rajidae),rays (Rajidae),,x,?,?
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,salmons (Salmonidae indet.),salmons (Salmonidae indet.),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,common rudd (Scardinius erythropthalmus),common rudd (Scardinius erythropthalmus),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,catfish (Siluris glanis),catfish (Siluris glanis),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,sturgeon (Acipenser sturio),sturgeon (Acipenser sturio),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,allis shad (Alosa alosa),allis shad (Alosa alosa),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,twaite shad (Alosa fallax),twaite shad (Alosa fallax),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,sharks/ray (Chondrichthyes),sharks/ray (Chondrichthyes),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,herring (Clupea harengus),herring (Clupea harengus),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,herring/sprat (Clupea harengus/Sprattus sprattus),herring/sprat (Clupea harengus/Sprattus sprattus),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,whitefishes (Coregonus spec.),whitefishes (Coregonus spec.),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,stingray (Dasyatis pastinaca),stingray (Dasyatis pastinaca),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,grey gurnard (Eutrigla gurnardus),grey gurnard (Eutrigla gurnardus),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,Atlantic cod (Gadus morhua),Atlantic cod (Gadus morhua),,x,?,?
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,ruffe (Gymnocephalus cernuus),ruffe (Gymnocephalus cernuus),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,ide (Leuciscus idus),ide (Leuciscus idus),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,Thin-lipped/golden grey mullet (Liza ramada/aurata),Thin-lipped/golden grey mullet (Liza ramada/aurata),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,smelt (Osmerus eperlanus),smelt (Osmerus eperlanus),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,sea basses (Percichthyidae),sea basses (Percichthyidae),,x,?,?
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,plaice (Pleuronectus platessa),plaice (Pleuronectus platessa),,x,?,?
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,sole (Solea solea),sole (Solea solea),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2015,tench (Tinca tinca),tench (Tinca tinca),,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2014,Cervus elaphus,Cervus elaphus,,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2014,Sus scrofa,Sus scrofa,,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2014,Ursus arctos,Ursus arctos,,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2014,Anas platyrhynchos,Anas platyrhynchos,,x,?,?
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2014,Cygnus cygnus,Cygnus cygnus,,0,0,0
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2014,Capreolus capreolus,Capreolus capreolus,,x,?,?
+NL,Hoogwoud,MBA-LBA,1800-800,,,van Amerongen 2014,Lepus europaeus,Lepus europaeus,,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,1,,van Amerongen 2015,eel (Anguilla anguilla),eel (Anguilla anguilla),,x,?,?
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,carps (Cyprinidae indet.),carps (Cyprinidae indet.),,x,?,?
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,pike (Esox lucius),pike (Esox lucius),,x,?,?
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,bream (Abramis brama),bream (Abramis brama),,x,?,?
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,perch (Perca fluviatilis),perch (Perca fluviatilis),,x,?,?
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,silver bream (Blicca bjoerkna),silver bream (Blicca bjoerkna),,x,?,?
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,3-spined stickleback (Gasterosteus aculeatus),3-spined stickleback (Gasterosteus aculeatus),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,mullets (Mugilidae indet.),mullets (Mugilidae indet.),,x,?,?
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,Flatfishes (Pleuronectidae indet.),Flatfishes (Pleuronectidae indet.),,x,?,?
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,roach (Rutilus rutiulus),roach (Rutilus rutiulus),,x,?,?
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,bleak (Alburnus alburnus),bleak (Alburnus alburnus),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,sea bass (Dicentrarchus labrax),sea bass (Dicentrarchus labrax),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,cods (Gadidae),cods (Gadidae),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,Thin-lipped mullet (Liza ramada),Thin-lipped mullet (Liza ramada),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,flounder (Platichthys flesus),flounder (Platichthys flesus),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,10-spined stickleback (Pungitius pungitius),10-spined stickleback (Pungitius pungitius),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,thornback ray (Raja clavata),thornback ray (Raja clavata),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,rays (Rajidae),rays (Rajidae),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,salmons (Salmonidae indet.),salmons (Salmonidae indet.),,x,?,?
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,common rudd (Scardinius erythropthalmus),common rudd (Scardinius erythropthalmus),,x,?,?
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,catfish (Siluris glanis),catfish (Siluris glanis),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,sturgeon (Acipenser sturio),sturgeon (Acipenser sturio),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,allis shad (Alosa alosa),allis shad (Alosa alosa),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,twaite shad (Alosa fallax),twaite shad (Alosa fallax),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,sharks/ray (Chondrichthyes),sharks/ray (Chondrichthyes),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,herring (Clupea harengus),herring (Clupea harengus),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,herring/sprat (Clupea harengus/Sprattus sprattus),herring/sprat (Clupea harengus/Sprattus sprattus),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,whitefishes (Coregonus spec.),whitefishes (Coregonus spec.),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,stingray (Dasyatis pastinaca),stingray (Dasyatis pastinaca),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,grey gurnard (Eutrigla gurnardus),grey gurnard (Eutrigla gurnardus),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,Atlantic cod (Gadus morhua),Atlantic cod (Gadus morhua),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,ruffe (Gymnocephalus cernuus),ruffe (Gymnocephalus cernuus),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,ide (Leuciscus idus),ide (Leuciscus idus),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,Thin-lipped/golden grey mullet (Liza ramada/aurata),Thin-lipped/golden grey mullet (Liza ramada/aurata),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,smelt (Osmerus eperlanus),smelt (Osmerus eperlanus),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,sea basses (Percichthyidae),sea basses (Percichthyidae),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,plaice (Pleuronectus platessa),plaice (Pleuronectus platessa),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,sole (Solea solea),sole (Solea solea),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2015,tench (Tinca tinca),tench (Tinca tinca),,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2014,Cervus elaphus,Cervus elaphus,,x,?,?
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2014,Sus scrofa,Sus scrofa,,x,?,?
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2014,Ursus arctos,Ursus arctos,,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2014,Anas platyrhynchos,Anas platyrhynchos,,0,0,0
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2014,Cygnus cygnus,Cygnus cygnus,,x,?,?
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2014,Capreolus capreolus,Capreolus capreolus,,x,?,?
+NL,Medemblik,MBA-LBA,1800-800,,,van Amerongen 2014,Lepus europaeus,Lepus europaeus,,0,0,0
+NL,Niederlande,MBA-LBA,1800-800,1,,"Benecke 1993, Tab. 31",cattle,cattle,77.0,x,xxxx,xxx
+NL,Niederlande,MBA-LBA,1800-800,,,"Benecke 1993, Tab. 31",pig,pig,7.5,x,x,x
+NL,Niederlande,MBA-LBA,1800-800,,,"Benecke 1993, Tab. 31",sheep/goat,caprines,15.4,x,x,x
+NL,Niederlande,MBA-LBA,1800-800,,,"Benecke 1993, Tab. 31",horse,horse,0.2,x,x,x
+NL,Niederlande,MBA-LBA,1800-800,,,"Benecke 1993, Tab. 31",wild animals (mammals),wild animals (mammals),0.2,x,x,x
+NL,Schagen,MBA-LBA,1800-800,1,,van Amerongen 2015,eel (Anguilla anguilla),eel (Anguilla anguilla),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,carps (Cyprinidae indet.),carps (Cyprinidae indet.),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,pike (Esox lucius),pike (Esox lucius),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,bream (Abramis brama),bream (Abramis brama),,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,perch (Perca fluviatilis),perch (Perca fluviatilis),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,silver bream (Blicca bjoerkna),silver bream (Blicca bjoerkna),,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,3-spined stickleback (Gasterosteus aculeatus),3-spined stickleback (Gasterosteus aculeatus),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,mullets (Mugilidae indet.),mullets (Mugilidae indet.),,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,Flatfishes (Pleuronectidae indet.),Flatfishes (Pleuronectidae indet.),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,roach (Rutilus rutiulus),roach (Rutilus rutiulus),,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,bleak (Alburnus alburnus),bleak (Alburnus alburnus),,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,sea bass (Dicentrarchus labrax),sea bass (Dicentrarchus labrax),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,cods (Gadidae),cods (Gadidae),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,Thin-lipped mullet (Liza ramada),Thin-lipped mullet (Liza ramada),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,flounder (Platichthys flesus),flounder (Platichthys flesus),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,10-spined stickleback (Pungitius pungitius),10-spined stickleback (Pungitius pungitius),,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,thornback ray (Raja clavata),thornback ray (Raja clavata),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,rays (Rajidae),rays (Rajidae),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,salmons (Salmonidae indet.),salmons (Salmonidae indet.),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,common rudd (Scardinius erythropthalmus),common rudd (Scardinius erythropthalmus),,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,catfish (Siluris glanis),catfish (Siluris glanis),,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,sturgeon (Acipenser sturio),sturgeon (Acipenser sturio),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,allis shad (Alosa alosa),allis shad (Alosa alosa),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,twaite shad (Alosa fallax),twaite shad (Alosa fallax),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,sharks/ray (Chondrichthyes),sharks/ray (Chondrichthyes),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,herring (Clupea harengus),herring (Clupea harengus),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,herring/sprat (Clupea harengus/Sprattus sprattus),herring/sprat (Clupea harengus/Sprattus sprattus),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,whitefishes (Coregonus spec.),whitefishes (Coregonus spec.),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,stingray (Dasyatis pastinaca),stingray (Dasyatis pastinaca),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,grey gurnard (Eutrigla gurnardus),grey gurnard (Eutrigla gurnardus),,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,Atlantic cod (Gadus morhua),Atlantic cod (Gadus morhua),,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,ruffe (Gymnocephalus cernuus),ruffe (Gymnocephalus cernuus),,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,ide (Leuciscus idus),ide (Leuciscus idus),,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,Thin-lipped/golden grey mullet (Liza ramada/aurata),Thin-lipped/golden grey mullet (Liza ramada/aurata),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,smelt (Osmerus eperlanus),smelt (Osmerus eperlanus),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,sea basses (Percichthyidae),sea basses (Percichthyidae),,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,plaice (Pleuronectus platessa),plaice (Pleuronectus platessa),,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,sole (Solea solea),sole (Solea solea),,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2015,tench (Tinca tinca),tench (Tinca tinca),,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2014,Cervus elaphus,Cervus elaphus,,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2014,Sus scrofa,Sus scrofa,,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2014,Ursus arctos,Ursus arctos,,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2014,Anas platyrhynchos,Anas platyrhynchos,,x,?,?
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2014,Cygnus cygnus,Cygnus cygnus,,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2014,Capreolus capreolus,Capreolus capreolus,,0,0,0
+NL,Schagen,MBA-LBA,1800-800,,,van Amerongen 2014,Lepus europaeus,Lepus europaeus,,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,1,,van Amerongen 2015,eel (Anguilla anguilla),eel (Anguilla anguilla),,x,?,?
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,carps (Cyprinidae indet.),carps (Cyprinidae indet.),,x,?,?
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,pike (Esox lucius),pike (Esox lucius),,x,?,?
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,bream (Abramis brama),bream (Abramis brama),,x,?,?
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,perch (Perca fluviatilis),perch (Perca fluviatilis),,x,?,?
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,silver bream (Blicca bjoerkna),silver bream (Blicca bjoerkna),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,3-spined stickleback (Gasterosteus aculeatus),3-spined stickleback (Gasterosteus aculeatus),,x,?,?
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,mullets (Mugilidae indet.),mullets (Mugilidae indet.),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,Flatfishes (Pleuronectidae indet.),Flatfishes (Pleuronectidae indet.),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,roach (Rutilus rutiulus),roach (Rutilus rutiulus),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,bleak (Alburnus alburnus),bleak (Alburnus alburnus),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,sea bass (Dicentrarchus labrax),sea bass (Dicentrarchus labrax),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,cods (Gadidae),cods (Gadidae),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,Thin-lipped mullet (Liza ramada),Thin-lipped mullet (Liza ramada),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,flounder (Platichthys flesus),flounder (Platichthys flesus),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,10-spined stickleback (Pungitius pungitius),10-spined stickleback (Pungitius pungitius),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,thornback ray (Raja clavata),thornback ray (Raja clavata),,x,?,?
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,rays (Rajidae),rays (Rajidae),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,salmons (Salmonidae indet.),salmons (Salmonidae indet.),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,common rudd (Scardinius erythropthalmus),common rudd (Scardinius erythropthalmus),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,catfish (Siluris glanis),catfish (Siluris glanis),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,sturgeon (Acipenser sturio),sturgeon (Acipenser sturio),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,allis shad (Alosa alosa),allis shad (Alosa alosa),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,twaite shad (Alosa fallax),twaite shad (Alosa fallax),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,sharks/ray (Chondrichthyes),sharks/ray (Chondrichthyes),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,herring (Clupea harengus),herring (Clupea harengus),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,herring/sprat (Clupea harengus/Sprattus sprattus),herring/sprat (Clupea harengus/Sprattus sprattus),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,whitefishes (Coregonus spec.),whitefishes (Coregonus spec.),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,stingray (Dasyatis pastinaca),stingray (Dasyatis pastinaca),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,grey gurnard (Eutrigla gurnardus),grey gurnard (Eutrigla gurnardus),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,Atlantic cod (Gadus morhua),Atlantic cod (Gadus morhua),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,ruffe (Gymnocephalus cernuus),ruffe (Gymnocephalus cernuus),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,ide (Leuciscus idus),ide (Leuciscus idus),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,Thin-lipped/golden grey mullet (Liza ramada/aurata),Thin-lipped/golden grey mullet (Liza ramada/aurata),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,smelt (Osmerus eperlanus),smelt (Osmerus eperlanus),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,sea basses (Percichthyidae),sea basses (Percichthyidae),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,plaice (Pleuronectus platessa),plaice (Pleuronectus platessa),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,sole (Solea solea),sole (Solea solea),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2015,tench (Tinca tinca),tench (Tinca tinca),,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2014,Cervus elaphus,Cervus elaphus,,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2014,Sus scrofa,Sus scrofa,,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2014,Ursus arctos,Ursus arctos,,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2014,Anas platyrhynchos,Anas platyrhynchos,,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2014,Cygnus cygnus,Cygnus cygnus,,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2014,Capreolus capreolus,Capreolus capreolus,,0,0,0
+NL,Westwoud,MBA-LBA,1800-800,,,van Amerongen 2014,Lepus europaeus,Lepus europaeus,,x,?,?

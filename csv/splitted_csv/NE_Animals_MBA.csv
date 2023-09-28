@@ -1,0 +1,12 @@
+Country,Site,Time_Period,Absolute_Time,Unique,Culture,Reference,Species,Species_Sum,Percentage,Presence_Absence,Semi_Quantitative,...13
+NL,Andijk/Vogelenzang,MBA,1800-1100,1,Unknown,Scheibner 2015,livestock,livestock,98.6,x,xxxx,xxxx
+NL,Andijk/Vogelenzang,MBA,1800-1100,NA,Unknown,Scheibner 2015,wild meat animals,wild,1,x,x,x
+NL,Andijk/Vogelenzang,MBA,1800-1100,NA,Unknown,Scheibner 2015,pisces,pisces,0.1,x,x,x
+NL,Andijk/Vogelenzang,MBA,1800-1100,NA,Unknown,Scheibner 2015,marine,marine,0.3,x,x,x
+NL,Andijk,MBA,1800-1100,NA,Unknown,van Amerongen 2014,Cervus elaphus,Cervus elaphus,NA,x,?,?
+NL,Andijk,MBA,1800-1100,NA,Unknown,van Amerongen 2014,Sus scrofa,Sus scrofa,NA,x,?,?
+NL,Andijk,MBA,1800-1100,NA,Unknown,van Amerongen 2014,Ursus arctos,Ursus arctos,NA,0,0,0
+NL,Andijk,MBA,1800-1100,NA,Unknown,van Amerongen 2014,Anas platyrhynchos,Anas platyrhynchos,NA,0,0,0
+NL,Andijk,MBA,1800-1100,NA,Unknown,van Amerongen 2014,Cygnus cygnus,Cygnus cygnus,NA,0,0,0
+NL,Andijk,MBA,1800-1100,NA,Unknown,van Amerongen 2014,Capreolus capreolus,Capreolus capreolus,NA,x,?,?
+NL,Andijk,MBA,1800-1100,NA,Unknown,van Amerongen 2014,Lepus europaeus,Lepus europaeus,NA,0,0,0

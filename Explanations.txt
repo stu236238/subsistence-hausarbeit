@@ -1,0 +1,26 @@
+csv/ - Folder with the tables for the data collection
+	All means the all values available 
+	Amount means only the general data (0,x,xx,xxx,xxxx)
+	Frequencies means the frequency data (0, ?, x?,xx?,xxx?, xxxx?)
+	
+results/ - folder with the generated graphics and diagram
+
+Semiq.py - graphic generator for "Amount" percentages
+Semiq2.py - graphic generator for "Frequency" percentages
+Table1.csv - chronology table for the research areas
+TablesDiagramMaker.R - R code for splitting of the table and generator of the diagrams for the animal data
+Engelhart_Abgabe.pdf - Hausarbeit, also containing sources for data
+
+
+Abbreviations:
+EBA - Early Bronze Age
+MBA - Middle Bronze Age
+LBA - Late Bronze Age
+NE - North-European Plain
+CB - Carpathian Basin
+
+
+
+Collected and created by
+Daniela Engelhart
+September 2023
